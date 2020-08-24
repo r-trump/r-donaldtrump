@@ -1,0 +1,23 @@
+{
+  "name": "r-donaldtrump",
+  "version": "0.0.0",
+  "description": "/r/donaldtrump",
+  "main": " ",
+  "scripts": {
+    "start": "test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "js-to-html": "^1.0.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-trump/r-donaldtrump.git"
+  },
+  "author": " ",
+  "license": " ",
+  "bugs": {
+    "url": "https://github.com/r-trump/r-donaldtrump/issues"
+  },
+  "homepage": "https://github.com/r-trump/r-donaldtrump#readme"
+}
