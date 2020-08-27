@@ -9,16 +9,27 @@
 
  
 #### Louisiana Secretary of State
+
 - [Main State Page](https://www.sos.la.gov/Pages/default.aspx)
+
 #### Louisiana Secretary of State
+
 - [Local Supervisor of Elections Lookup]()
+
 #### Louisiana Secretary of State
+
 - [GeauxVote (Voter Portal)](https://voterportal.sos.la.gov/)
+
 #### Louisiana Secretary of State
+
 - [Search By Parish](https://voterportal.sos.la.gov/Home/ParishLogin)
+
 #### Louisiana Secretary of State
+
 - [Search By Address](https://voterportal.sos.la.gov/Home/AddressLogin)
+
 #### Louisiana Secretary of State
+
 - [Search By Voter](https://voterportal.sos.la.gov/Home/VoterLogin)
 
 ## Elections
