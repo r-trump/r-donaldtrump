@@ -8,11 +8,17 @@
 
 - [Division of Elections - Local Supervisor of Elections Lookup]()
 
-- [Division of Elections - Local Voter Information Lookup]()
+- [Division of Elections - GEAUX VOTE (LA Voter Info)](https://voterportal.sos.la.gov/)
+
+>- [Division of Elections - Search By Voter](https://voterportal.sos.la.gov/Home/VoterLogin)
+
+>- [Division of Elections - Search By Parish](https://voterportal.sos.la.gov/Home/ParishLogin)
 
 - [Division of Elections - State Elections Dates]()
 
-- [GOP Local State Chapter]()
+- [LAGOP Local State Chapter](https://www.lagop.com/)
+>- [LAGOP Official Facebook:](https://www.facebook.com/lagop/)
+>- [LAGOP History](https://en.wikipedia.org/wiki/Republican_Party_of_Louisiana)
 
 -----
 
