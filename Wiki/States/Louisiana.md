@@ -1,24 +1,39 @@
 # **Louisiana**
 
 -----
+ 
 
-## Local Information
+  
+  ## Louisiana Voting Information
+  
 
-- [Division of Elections - Main State Page]()
+ 
+#### Louisiana Secretary of State
+- [Louisiana Secretary of State - Main State Page](https://www.sos.la.gov/Pages/default.aspx)
+#### Louisiana Secretary of State
+- [Louisiana Secretary of State - Local Supervisor of Elections Lookup]()
+#### Louisiana Secretary of State
+- [GEAUX Vote (Voter Portal)](https://voterportal.sos.la.gov/)
+#### Louisiana Secretary of State
+- [Search By Parish](https://voterportal.sos.la.gov/Home/ParishLogin)
+#### Louisiana Secretary of State
+- [Search By Address](https://voterportal.sos.la.gov/Home/AddressLogin)
+#### Louisiana Secretary of State
+- [Search By Voter](https://voterportal.sos.la.gov/Home/VoterLogin)
 
-- [Division of Elections - Local Supervisor of Elections Lookup]()
-
-- [Division of Elections - GEAUX VOTE (LA Voter Info)](https://voterportal.sos.la.gov/)
-
->- [Division of Elections - Search By Voter](https://voterportal.sos.la.gov/Home/VoterLogin)
-
->- [Division of Elections - Search By Parish](https://voterportal.sos.la.gov/Home/ParishLogin)
-
+## Elections
+  #### _Note_:
+  * The deadline to register to vote in person or by mail is Oct. 5.
+  * The deadline to register to vote through the GeauxVote Online Registration System is Oct. 13.
+  * Early voting is Oct. 20-27 (excluding Sunday, Oct. 25) from 8:30 a.m.-6 p.m.            
+    ######   (Updated 2020-08-27)
+- [Get Election Information](https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx)
 - [Division of Elections - State Elections Dates]()
 
+#### Louisiana GOP
 - [LAGOP Local State Chapter](https://www.lagop.com/)
->- [LAGOP Official Facebook:](https://www.facebook.com/lagop/)
->- [LAGOP History](https://en.wikipedia.org/wiki/Republican_Party_of_Louisiana)
+- [LAGOP Official Facebook](https://www.facebook.com/lagop/)
+- [LAGOP History](https://en.wikipedia.org/wiki/Republican_Party_of_Louisiana)
 
 -----
 
@@ -29,6 +44,9 @@
 - [Polling Times]()
 
 - [Registration Deadlines]()
+
+## Statistics
+### [---> ELECTION RESULTS <---](https://voterportal.sos.la.gov/Graphical)
 
 -----
 ## Early Voting: Parishes
@@ -118,7 +136,8 @@
 
 - [National Registration](https://vote.gov/)
 
-- [Local Registration]()
+LA Voter Registration
+- [Local Registration](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
 
 -----
 
