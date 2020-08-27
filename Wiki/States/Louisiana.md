@@ -7,6 +7,7 @@
   
 
 
+
  
 #### Louisiana Secretary of State
 
@@ -33,15 +34,20 @@
 - [Search By Voter](https://voterportal.sos.la.gov/Home/VoterLogin)
 
 ## Elections
+  
   #### _Note_:
+  
   * The deadline to register to vote in person or by mail is Oct. 5.
   * The deadline to register to vote through the GeauxVote Online Registration System is Oct. 13.
   * Early voting is Oct. 20-27 (excluding Sunday, Oct. 25) from 8:30 a.m.-6 p.m.            
+    
     ######   (Updated 2020-08-27)
+
 - [Get Election Information](https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx)
 - [Division of Elections - State Elections Dates]()
 
 #### Louisiana GOP
+
 - [LAGOP Local State Chapter](https://www.lagop.com/)
 - [LAGOP Official Facebook](https://www.facebook.com/lagop/)
 - [LAGOP History](https://en.wikipedia.org/wiki/Republican_Party_of_Louisiana)
@@ -59,6 +65,7 @@
 
 
 ## Statistics
+
 [---> ELECTION RESULTS <---](https://voterportal.sos.la.gov/Graphical)
 
 
@@ -146,7 +153,7 @@
 #### [West Carroll](https://voterportal.sos.la.gov/Home/Home?uid=63)
 #### [West Feliciana](https://voterportal.sos.la.gov/Home/Home?uid=64)
 #### [Winn](https://voterportal.sos.la.gov/Home/Home?uid=65)
-[//]:# 'WORK IN PROGRESS'
+
 [//]:# 'Note: Fix the above links throughPut?'
 [//]:# '
         Note: 
@@ -160,11 +167,13 @@
         - Logging, onClick, completed "searched/resulting" per parish page.
         3. If above #1/#2 do not work. Figure out a #3.
         '
+[//]:# 'WORK IN PROGRESS'
 -----
 ## Registration Information 
 
 
 #### Louisiana Secretary of State
+
 - [Voter Registration - Main Page](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
 
 #### __Register to Vote__ - __Instructions__
@@ -186,6 +195,7 @@
     * And, not be under an order of imprisonment related to a felony conviction. 
     * For election fraud or any other election offense pursuant to [La. R.S. 18:1461.2](http://www.legis.la.gov/legis/Law.aspx?d=81430);
     * Not be under a judgment of full interdiction for mental incompetence or partial interdiction with suspension of voting rights;
+  
   * Reside in the state and parish in which you seek to register;
     * And, must be registered at least 20 days prior to an election. 
       * *If* registering through our [GeauxVote Online Registration System](https://voterportal.sos.la.gov/voterregistration)
@@ -193,25 +203,29 @@
         * Or, Louisiana special ID card 
         * Or, 30 days prior to an election if registering [in person or by mail](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ApplicationToRegisterToVote.pdf). 
       * *To* be eligible to vote in that particular election. 
-      * Note: 
-        * If mailing in an application. 
-        * The application or envelope must be postmarked 30 days prior to the first election. 
-          ##### *In which you seek to vote.*
-    * **All** voter registration information and applications. 
-        * *Of persons who are 16 or 17 years of age*
-          #### **Is** confidential
+  
+  * Note: 
+    * If mailing an application. 
+    * Application/envelope must be postmarked:
+      * 30 days prior. 
+      * To first election. 
+      * *In which you seek to vote.*
+    
+  * **All** voter registration information and applications.    
+    * Of persons who are 16 or 17 years of age
+    * *Is* confidential
       
-      For all others, the following:
-       * Driver's License Number;
-       * Social Security Number;
-       * Day + Month of Voter's Birth;
-       * Mother's Maiden Name;
-       * Email Address;     
-       * Text Msg Service; 
-       * Status:
-          * *if* voter is entitled to assistance with voting.
+    For all others, the following:
+      * Driver's License Number
+      * Social Security Number
+      * Day + Month of Voter's Birth
+      * Mother's Maiden Name
+      * Email Address
+      * Text Msg Service
+      * Status:
+        * *if* voter is entitled to assistance with voting.
+      * *Is* confidential
 
-          #### **Is** confidential
 
 #### __Register Online__ - __Instructions__
 
