@@ -138,7 +138,7 @@ Early Voting
 #### Louisiana Secretary of State
 - [LA Voter Registration Main Page](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
 
-REGISTER TO VOTE - INSTRUCTIONS
+#### __Register to Vote__ - __Instructions__
 
 
 
@@ -156,10 +156,10 @@ REGISTER TO VOTE - INSTRUCTIONS
     * Not be under a judgment of full interdiction for mental incompetence or partial interdiction with suspension of voting rights;
   * Reside in the state and parish in which you seek to register;
     * And, must be registered at least 20 days prior to an election. 
-      * *If* registering through our GeauxVote Online Registration System
+      * *If* registering through our [GeauxVote Online Registration System](https://voterportal.sos.la.gov/voterregistration)
       * *With* a Louisiana driver's license
         * Or, Louisiana special ID card 
-        * Or, 30 days prior to an election if registering in person or by mail. 
+        * Or, 30 days prior to an election if registering [in person or by mail](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ApplicationToRegisterToVote.pdf). 
       * *To* be eligible to vote in that particular election. 
       * Note: 
         * If mailing in an application. 
@@ -180,6 +180,18 @@ REGISTER TO VOTE - INSTRUCTIONS
           * *if* voter is entitled to assistance with voting.
 
           #### **Is** confidential
+
+#### __Register Online__ - __Instructions__
+
+
+* Register Online @:
+  * [GeauxVote Online Registration System](https://voterportal.sos.la.gov/voterregistration)
+    * On application completion.
+      * You will be allowed to: 
+        * -> Print application
+        * -> Mail application
+    * Or, *if* verified by Office of Motor Vehicles: 
+      * Submit electronically. 
 
 
 
