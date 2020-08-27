@@ -13,7 +13,7 @@
 #### Louisiana Secretary of State
 - [Local Supervisor of Elections Lookup]()
 #### Louisiana Secretary of State
-- [GEAUX Vote (Voter Portal)](https://voterportal.sos.la.gov/)
+- [GeauxVote (Voter Portal)](https://voterportal.sos.la.gov/)
 #### Louisiana Secretary of State
 - [Search By Parish](https://voterportal.sos.la.gov/Home/ParishLogin)
 #### Louisiana Secretary of State
@@ -154,7 +154,7 @@
 
 
 #### Louisiana Secretary of State
-- [LA Voter Registration Main Page](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
+- [Voter Registration - Main Page](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
 
 #### __Register to Vote__ - __Instructions__
 
@@ -163,7 +163,10 @@
 * To register to vote you must:
   * Be a U.S. citizen;
   * Be 17 years old 
-    * (16 years old if registering in person at the [Registrar of Voters Office](https://voterportal.sos.la.gov/registrar) or at the Louisiana Office of Motor Vehicles)
+    * *16 years old* 
+    * *If* registering in person. At:
+      * [Registrar of Voters Office](https://voterportal.sos.la.gov/registrar) 
+      * Or, at Louisiana Office of Motor Vehicles
     * **But** must be 18 years old to vote;
   * Not be under an order of imprisonment for conviction of a felony. 
 
