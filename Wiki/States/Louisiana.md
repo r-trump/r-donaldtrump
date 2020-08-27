@@ -218,7 +218,7 @@
 
 
 -----
-
+[//]:# 'WORK IN PROGRESS'
 ## Fraud Monitoring
 
 - [Poll Working - Local]()
@@ -228,7 +228,7 @@
 - [Postal Working](https://about.usps.com/careers/)
 
 -----
-
+[//]:# 'WORK IN PROGRESS'
 ## Trump Endorsements
 
 | *CANDIDATE* | *POSITION* | *WEBSITE* | *ENDORSEMENT LINK* |
@@ -236,8 +236,63 @@
 | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
 | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
 
+
 -----
+
+[//]:# 'WORK IN PROGRESS'
+[//]:# 'NOTES / DEV SUBSECTION'
+[//]:# 'WORK IN PROGRESS'
+<!--- 
+This Is Area for Notes 
+  And, for potential new areas to be created.
+
+  1. Create/Finish the below:
+    "## Other"
+    - Subsection
+    - Include within this the relevant "National Registration", moved, link.
+    -- Link that was included w/default template by: MrThatGuy.
+    -- Ie must be integrated within its own sourced formatting.
+    -- Which is/willBe -> planned/toBe -> its own section surrounding:
+    --- Relevant Louisiana "voting" tie-ins to the National VOTE.GOV/or other feds piecemeal relevancy.
+-->
+
+[//]:# '
+  subSection:
+    ## Other
+    Voter Registration
+'
+<!---startLn
 
 ## Other
 Voter Registration
 - [National Registration](https://vote.gov/)
+
+endLn-->
+
+
+[//]:# ' md (Notes)
+  Note:
+      + COMMENTED?
+      + HIDDEN?
+    BUT, 
+      + CALLABLE?
+      + INDEXABLE?
+    ??How??  
+  Note:
+    "Reference-style links allow you to refer to your links by names"
+    "which you define elsewhere in your document"
+    [One]: http://google.com/        "Google"
+    [Two]: http://search.yahoo.com/  "Yahoo Search"
+    [Three]: http://search.msn.com/  "MSN Search"
+'
+[//]:# '
+  subSection: 
+    ## Hidden Parish vars/vals
+    Hidden Subsection - Includes Each Parish/Formatted 4 md "Reference-style links"
+'
+
+
+
+[//]:# 'WORK IN PROGRESS'
+[//]:# 'NOTES / DEV SUBSECTION'
+[//]:# 'WORK IN PROGRESS'
