@@ -134,11 +134,13 @@ Early Voting
 -----
 ## Registration Information 
 
-REGISTER TO VOTE
 
-- [National Registration](https://vote.gov/)
+#### Louisiana Secretary of State
+- [LA Voter Registration Main Page](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
 
-LA Voter Registration
+REGISTER TO VOTE - INSTRUCTIONS
+
+
 
 * To register to vote you must:
   * Be a U.S. citizen;
@@ -163,16 +165,24 @@ LA Voter Registration
         * If mailing in an application. 
         * The application or envelope must be postmarked 30 days prior to the first election. 
           ##### *In which you seek to vote.*
-    * All voter registration information and applications are confidential. 
-      ##### *Of persons who are 16 or 17 years of age* 
-    
-      For all others, the following information is confidential:
+    * **All** voter registration information and applications. 
+        * *Of persons who are 16 or 17 years of age*
+          #### **Is** confidential
+      
+      For all others, the following:
+       * Driver's License Number;
+       * Social Security Number;
+       * Day + Month of Voter's Birth;
+       * Mother's Maiden Name;
+       * Email Address;     
+       * Text Msg Service; 
+       * Status:
+          * *if* voter is entitled to assistance with voting.
+
+          #### **Is** confidential
 
 
 
-
-- []
-- [Local Registration](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
 
 -----
 
