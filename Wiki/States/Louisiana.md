@@ -44,15 +44,19 @@
 - [Polling Times]()
 
 - [Registration Deadlines]()
+----
+
 
 ## Statistics
-### [---> ELECTION RESULTS <---](https://voterportal.sos.la.gov/Graphical)
+[---> ELECTION RESULTS <---](https://voterportal.sos.la.gov/Graphical)
+
 
 -----
-Early Voting
+
+## Early Voting Information
 
 -----
-
+[//]:# 'WORK IN PROGRESS'
 ### Early Voting: Parishes
 
 #### [Acadia](https://voterportal.sos.la.gov/Home/Home?uid=2)
@@ -131,6 +135,20 @@ Early Voting
 #### [West Carroll](https://voterportal.sos.la.gov/Home/Home?uid=63)
 #### [West Feliciana](https://voterportal.sos.la.gov/Home/Home?uid=64)
 #### [Winn](https://voterportal.sos.la.gov/Home/Home?uid=65)
+[//]:# 'WORK IN PROGRESS'
+[//]:# 'Note: Fix the above links throughPut?'
+[//]:# '
+        Note: 
+        - Issues (likely?) lie within voter portal applet.
+        - Not (directly?) in forcing/breaking through to page. 
+        1. Figure out how to *exactly* link to direct page.
+          - Already done? 
+          - See above ^
+        2. Figure out how to force "cache" the individual parish pages.
+        - Ie force push to page.
+        - Logging, onClick, completed "searched/resulting" per parish page.
+        3. If above #1/#2 do not work. Figure out a #3.
+        '
 -----
 ## Registration Information 
 
