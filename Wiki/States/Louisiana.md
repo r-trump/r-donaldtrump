@@ -63,28 +63,7 @@
 [//]:#
 '- [Registration Deadlines]()'
 
-[//]://
-'- this'
 
-
-[//]:# '
-    '
-    - [leet]()
-    aaa
-    aaa
-    aaaa
-    '
-
-
-[//]:# 
-    'a'
-
-[//]:# 'aaaaaa'
-
- 
-
-
-endendtest
 ----
 
 
