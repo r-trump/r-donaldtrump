@@ -224,9 +224,9 @@
 [//]:# 'NOTES / DEV SUBSECTION'
 [//]:# 'WORK IN PROGRESS'
 <!--- 
-This Is Area for Notes 
-  And, for potential new areas to be created.
 
+  This Is Area for Notes 
+  Ie, for potential new areas to be created.
   1. Create/Finish the below:
     "## Other"
     - Subsection
@@ -235,44 +235,49 @@ This Is Area for Notes
     -- Ie must be integrated within its own sourced formatting.
     -- Which is/willBe -> planned/toBe -> its own section surrounding:
     --- Relevant Louisiana "voting" tie-ins to the National VOTE.GOV/or other feds piecemeal relevancy.
+
 -->
 
-[//]:# '
+<!---
+
   subSection:
     ## Other
     Voter Registration
-'
+
+-->
+
 <!---startLn
 
-## Other
-Voter Registration
-- [National Registration](https://vote.gov/)
+  ## Other
+  Voter Registration
+  - [National Registration](https://vote.gov/)
 
 endLn-->
 
+<!--- 
 
-[//]:# ' md (Notes)
-  Note:
-      + COMMENTED?
-      + HIDDEN?
-    BUT, 
-      + CALLABLE?
-      + INDEXABLE?
-    ??How??  
-  Note:
-    "Reference-style links allow you to refer to your links by names"
-    "which you define elsewhere in your document"
-    [One]: http://google.com/        "Google"
-    [Two]: http://search.yahoo.com/  "Yahoo Search"
-    [Three]: http://search.msn.com/  "MSN Search"
-'
-[//]:# '
-  subSection: 
-    ## Hidden Parish vars/vals
-    Hidden Subsection - Includes Each Parish/Formatted 4 md "Reference-style links"
-'
+  [//]:# ' md (Notes)
+    Note:
+        + COMMENTED?
+        + HIDDEN?
+      BUT, 
+        + CALLABLE?
+        + INDEXABLE?
+      ??How??  
+    Note:
+      "Reference-style links allow you to refer to your links by names"
+      "which you define elsewhere in your document"
+      [One]: http://google.com/        "Google"
+      [Two]: http://search.yahoo.com/  "Yahoo Search"
+      [Three]: http://search.msn.com/  "MSN Search"
+  '
+  [//]:# '
+    subSection: 
+      ## Hidden Parish vars/vals
+      Hidden Subsection - Includes Each Parish/Formatted 4 md "Reference-style links"
+  '
 
-
+-->
 
 [//]:# 'WORK IN PROGRESS'
 [//]:# 'NOTES / DEV SUBSECTION'
