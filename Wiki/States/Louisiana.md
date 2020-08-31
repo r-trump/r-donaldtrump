@@ -1,14 +1,14 @@
 # **State of Louisiana**
 -----
 
- 
+
   
   ## Voting Wiki
   
 
 
 
- 
+
 #### Louisiana Secretary of State
 
 - [Main State Page](https://www.sos.la.gov/Pages/default.aspx)
@@ -34,17 +34,17 @@
 - [Search By Voter](https://voterportal.sos.la.gov/Home/VoterLogin)
 
 ## Elections
-  
-  #### _Note_:
+#### _Note_:
   
   * The deadline to register to vote in person or by mail is Oct. 5.
   * The deadline to register to vote through the GeauxVote Online Registration System is Oct. 13.
-  * Early voting is Oct. 20-27 (excluding Sunday, Oct. 25) from 8:30 a.m.-6 p.m.            
+  * Early voting is Oct. 20-27 (excluding Sunday, Oct. 25) from 8:30 a.m.-6 p.m.
     
     ######   (Updated 2020-08-27)
 
+#### Louisiana Secretary of State
+
 - [Get Election Information](https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx)
-- [Division of Elections - State Elections Dates]()
 
 #### Louisiana GOP
 
@@ -58,9 +58,33 @@
 
 - [Early Voting](https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteEarly/Pages/default.aspx)
 
-- [Polling Times]()
+[//]://
+//
+// '- [Polling Times]()'
+//
 
-- [Registration Deadlines]()
+
+[//]:# '
+    - [leet]()
+    aaa
+    aaa
+    aaaa
+    '
+ 
+
+[//]:#
+'- [Registration Deadlines]()'
+
+
+[//]:# 
+    'a'
+
+[//]:# 
+    '
+    aa
+    '
+
+endendtest
 ----
 
 
@@ -84,19 +108,24 @@
 * To register to vote you must:
   * Be a U.S. citizen;
   * Be 17 years old 
-    * *16 years old* 
-    * *If* registering in person. At:
-      * [Registrar of Voters Office](https://voterportal.sos.la.gov/registrar) 
-      * Or, at Louisiana Office of Motor Vehicles
-    * **But** must be 18 years old to vote;
-  * Not be under an order of imprisonment for conviction of a felony. 
+  * Or, *16* years old
+      * *If* registering in person. 
+        * At, [Registrar of Voters Office](https://voterportal.sos.la.gov/registrar) 
+        * At, Louisiana Office of Motor Vehicles
+    
+        ###### (Note)
+        ###### (**Must** be 18 years old to vote)
 
-    * Or, if under such an order: 
+
+* Also:
+  * Not be under an order of imprisonment for conviction of a felony. 
+    * Or, if under such an order:
       * Not have been incarcerated pursuant to the order within the last five years.
       * And, not be under an order of imprisonment related to a felony conviction. 
       * For election fraud or any other election offense pursuant to [La. R.S. 18:1461.2](http://www.legis.la.gov/legis/Law.aspx?d=81430);
       * Not be under a judgment of full interdiction for mental incompetence or partial interdiction with suspension of voting rights;
-  
+
+* Also:
   * Reside in the state and parish in which you seek to register;
     * And, must be registered at least 20 days prior to an election. 
       * *If* registering through our [GeauxVote Online Registration System](https://voterportal.sos.la.gov/voterregistration)
@@ -104,19 +133,20 @@
         * Or, Louisiana special ID card 
         * Or, 30 days prior to an election if registering [in person or by mail](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ApplicationToRegisterToVote.pdf). 
       * *To* be eligible to vote in that particular election. 
-  
+* Also:
   * Note: 
     * If mailing an application. 
     * Application/envelope must be postmarked:
       * 30 days prior. 
       * To first election. 
       * *In which you seek to vote.*
-    
-  * **All** voter registration information and applications.    
+
+* Also:
+  * **All** voter registration information and applications.
     * Of persons who are 16 or 17 years of age
     * *Is* confidential
-      
-    For all others, the following:
+* Also:    
+  * For all others, the following:
       * Driver's License Number
       * Social Security Number
       * Day + Month of Voter's Birth
