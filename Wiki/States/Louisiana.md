@@ -122,9 +122,10 @@
 
 * Also:
   * **All** voter registration information and applications.
-    * Of persons who are 16 or 17 years of age
-    * *Is* confidential
-* Also:    
+      * Of persons:
+          * 16 years of age
+          * 17 years of age
+      * *Is* confidential   
   * For all others, the following:
       * Driver's License Number
       * Social Security Number
@@ -133,14 +134,17 @@
       * Email Address
       * Text Msg Service
       * Status:
-        * *if* voter is entitled to assistance with voting.
+          * *if* voter is entitled to assistance with voting.
       * *Is* confidential
 
 
 #### __Register Online__ - __Instructions__
 
 
-* Register Online @:
+* Register Online 
+  
+  At:
+
   * [GeauxVote Online Registration System](https://voterportal.sos.la.gov/voterregistration)
     * On application completion.
       * You will be allowed to: 
