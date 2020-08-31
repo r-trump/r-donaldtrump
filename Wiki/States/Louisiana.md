@@ -195,8 +195,6 @@
 [//]:# 'WORK IN PROGRESS'
 ## Fraud Monitoring
 
-- [Poll Working - Local]()
-
 - [Poll Monitoring - National](https://www.eac.gov/election-officials/poll-watchers)
 
 #### Louisiana Secretary of State
