@@ -145,7 +145,7 @@
 
 #### Louisiana Secretary of State
 
-- [Become an Election Worker - Page](https://www.sos.la.gov/ElectionsAndVoting/GetInvolved/BecomeAnElectionWorker/Pages/default.aspx)
+- [Become an Election Worker - Main](https://www.sos.la.gov/ElectionsAndVoting/GetInvolved/BecomeAnElectionWorker/Pages/default.aspx)
 
 #### Louisiana Secretary of State
 
@@ -161,6 +161,10 @@
     
     ######   (Updated 2020-08-05)
 
+#### Louisiana Secretary of State
+
+- [Registrar of Voters - All Parishes](https://voterportal.sos.la.gov/registrar)
+
 #### __Poll Commissioner // Poll Watcher__ - __Instructions__
 
 1. Review the [Elections Worker Flyer](https://www.sos.la.gov/OurOffice/PublishedDocuments/ElectionsWorkerFlyer.pdf) 
@@ -168,9 +172,10 @@
 2. Complete the [Poll Commissioner Application](https://www.sos.la.gov/OurOffice/PublishedDocuments/PollCommissionerApplication.pdf).  
 
 2. Return application to:
-    - electionworker@sos.la.gov
+    - Email to:
+      - electionworker@sos.la.gov
     - Or, send to: 
-      - Your parish Clerk of Court's Office.
+      - Your parish [Clerk of Court's Office](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ClerkOfCourtAndRegistrarOfVotersList.pdf).
     - Or, send to:
       ```
       Secretary of State
@@ -181,10 +186,9 @@
       225.922.1167 fax
       ```
 
-3. The parish Clerk of Court's office or registrar will contact you with your next steps. 
-
-
-
+3. Wait for Contact:
+    - [Clerk of Court's Office](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ClerkOfCourtAndRegistrarOfVotersList.pdf) or, [registrar](https://voterportal.sos.la.gov/registrar).
+    - Will contact you for next steps.
 
 
 -----
@@ -206,11 +210,6 @@
 #### Louisiana Secretary of State
 
 - Election Fraud Hotline: (800) 722-5305
-
------
-## Fraud Monitoring 
-
-
 -----
 [//]:# 'WORK IN PROGRESS'
 ## Trump Endorsements
