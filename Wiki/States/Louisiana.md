@@ -226,7 +226,9 @@
 <!--- 
 
   This Is Area for Notes 
+  
   Ie, for potential new areas to be created.
+  
   1. Create/Finish the below:
     "## Other"
     - Subsection
@@ -238,46 +240,50 @@
 
 -->
 
+
 <!---
 
   subSection:
+    
     ## Other
+    
     Voter Registration
 
 -->
 
+
 <!---startLn
 
-  ## Other
-  Voter Registration
-  - [National Registration](https://vote.gov/)
+## Other
 
-endLn-->
+Voter Registration
 
-<!--- 
+- [National Registration](https://vote.gov/)
 
-  [//]:# ' md (Notes)
-    Note:
-        + COMMENTED?
-        + HIDDEN?
-      BUT, 
-        + CALLABLE?
-        + INDEXABLE?
-      ??How??  
-    Note:
-      "Reference-style links allow you to refer to your links by names"
-      "which you define elsewhere in your document"
-      [One]: http://google.com/        "Google"
-      [Two]: http://search.yahoo.com/  "Yahoo Search"
-      [Three]: http://search.msn.com/  "MSN Search"
-  '
-  [//]:# '
-    subSection: 
-      ## Hidden Parish vars/vals
-      Hidden Subsection - Includes Each Parish/Formatted 4 md "Reference-style links"
-  '
+endLn ---> 
 
--->
+[//]:# 'md (Notes)
+[//]:#  Note (1):
+[//]:     + COMMENTED?
+[//]:     + HIDDEN?
+[//]:#    BUT,
+[//]:      + CALLABLE?
+[//]:      + INDEXABLE?
+[//]:#    ??How??
+[//]:#  Note (2):
+[//]:    "Reference-style links allow you to refer to your links by names"
+[//]:    "which you define elsewhere in your document"
+[//]:    [One]: http://google.com/        "Google"
+[//]:    [Two]: http://search.yahoo.com/  "Yahoo Search"
+[//]:    [Three]: http://search.msn.com/  "MSN Search"
+[//]: '
+
+[//]:# 'Task
+[//]: Parish Ref Vals Subsection
+[//]:  subSection: 
+[//]:    ## Hidden Parish vars/vals
+[//]:    Hidden Subsection - Includes Each Parish/Formatted 4 md "Reference-style links"
+[//]:'
 
 [//]:# 'WORK IN PROGRESS'
 [//]:# 'NOTES / DEV SUBSECTION'
