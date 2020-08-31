@@ -177,12 +177,28 @@
     - Or, send to: 
       - Your parish [Clerk of Court's Office](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ClerkOfCourtAndRegistrarOfVotersList.pdf).
     - Or, send to:
+    
       ```
       Secretary of State
-      Elections Division 
+      ```
+      
+      ```
+      Elections Division
+      ```
+      
+      ```
       Election Poll Worker Application
+      ```
+      
+      ```
       P.O. Box 94125
+      ```
+      
+      ```
       Baton Rouge, LA 70804-9125
+      ```
+      
+      ```
       225.922.1167 fax
       ```
 
@@ -252,21 +268,27 @@
 -->
 
 
-<!---startLn
+[//]:# 'startLn
+[//]:  ## Other
+[//]:  #### Voter Registration 
+[//]:  - [National Registration](https://vote.gov/)
+[//]: endLn '
 
-## Other
+\*
+[//]:// 'startLn
+// ## Other
+// #### Voter Registration 
+//  - [National Registration](https://vote.gov/)
+//  endLn'
+[//]:// '
+\*
 
-Voter Registration
-
-- [National Registration](https://vote.gov/)
-
-endLn ---> 
 
 [//]:# 'md (Notes)
-[//]:#  Note (1):
+[//]:  Note (1):
 [//]:     + COMMENTED?
 [//]:     + HIDDEN?
-[//]:#    BUT,
+[//]:#    BUT
 [//]:      + CALLABLE?
 [//]:      + INDEXABLE?
 [//]:#    ??How??
@@ -279,10 +301,10 @@ endLn --->
 [//]: '
 
 [//]:# 'Task
-[//]: Parish Ref Vals Subsection
-[//]:  subSection: 
-[//]:    ## Hidden Parish vars/vals
-[//]:    Hidden Subsection - Includes Each Parish/Formatted 4 md "Reference-style links"
+[//] Parish Ref Vals Subsection
+[//]  sub section
+[//]    ## Hidden Parish
+[//]    Hidden Subsection - Includes Each Parish/Formatted 4 md "Reference-style links"
 [//]:'
 
 [//]:# 'WORK IN PROGRESS'
