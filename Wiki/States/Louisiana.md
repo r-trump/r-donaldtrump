@@ -58,10 +58,8 @@
 
 - [Early Voting](https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteEarly/Pages/default.aspx)
 
-[//]:#
-'- [Polling Times]()'
-[//]:#
-'- [Registration Deadlines]()'
+[//]:# '- [Polling Times]()'
+[//]:# '- [Registration Deadlines]()'
 
 
 ----
@@ -80,9 +78,7 @@
 
 - [Voter Registration - Main Page](https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx)
 
-#### __Register to Vote__ - __Instructions__
-
-
+##### Register to Vote - Instructions
 
 * To register to vote you must:
   * Be a U.S. citizen;
@@ -138,8 +134,7 @@
       * *Is* confidential
 
 
-#### __Register Online__ - __Instructions__
-
+##### Register Online - Instructions
 
 * Register Online 
   
@@ -178,7 +173,7 @@
 
 - [Registrar of Voters - All Parishes](https://voterportal.sos.la.gov/registrar)
 
-#### __Poll Commissioner // Poll Watcher__ - __Instructions__
+##### Poll Commissioner // Poll Watcher - Instructions
 
 1. Review the [Elections Worker Flyer](https://www.sos.la.gov/OurOffice/PublishedDocuments/ElectionsWorkerFlyer.pdf) 
 
@@ -232,11 +227,13 @@
 
 #### Louisiana Secretary of State
 
-- [Protect Your Vote! - PDF](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ProtectYourVote.pdf)
+- [Protect Your Vote! (PDF)](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/ProtectYourVote.pdf)
 
 #### Louisiana Secretary of State
 
 - Election Fraud Hotline: (800) 722-5305
+
+
 -----
 [//]:# 'WORK IN PROGRESS'
 ## Trump Endorsements
