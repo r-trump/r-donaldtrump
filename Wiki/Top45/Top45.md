@@ -78,45 +78,110 @@
   - First Step Act
   - Ready to Work Initiative  (Prison reform)
 
-\- Opportunity Zones (Low income city projects)
+\- Opportunity Zones (Inner City Revitalization)
 
-\- HBCU Work
+    top45/
+      /opportunity_zones/
+
+\- Historically Black Colleges and Universities (HBCU)
+
+    top45/
+      /HBCU/
 
 \- USMCA
 
-\- Withdrawing from TPP
+    top45/
+      /usmca/
 
-\- Tax Cuts and Jobss Act
 
-\- Regulation Reduction
+\- 🙅‍♀️Yeeting the Trans-Pacific Partnership🙅‍♀️ - 
+
+    top45/
+      /transpacificpartnership/
+
+\- Tax Cuts and Jobs Act
+
+    top45/
+      /TCJA/
+
+\- Regulation ✂️Cuts✂️
+
+    top45/
+      /regulation_cuts/
+
 
 \- Supreme Court Appointees & Federal Judges
 
-\- The Wall
+    top45/
+      /supreme_court/
+
+\- Border Security (🧱THE WALL🧱)
+
+    top45/
+      /build_the_wall/
 
 \- Immigration (ending sactuary city funds, MS13, criminal deportations, etc)
 
+    top45/
+      /immigration/
+
 \- Israel Relations
 
-\- Korean Peace Talks
+    top45/
+      /israel/
 
-\- Lobbying Restrictions
+\- ☮️Peace in the Korean Peninsula☮️
 
-\- Human Trafficking Crackdown
+    top45/
+      /korea/
 
-\- Ending dependence on foreign energy (Energy boom)
+\- Lobbying Reform
+
+    top45/
+      /lobbying/
+
+\- Ending Human Trafficking
+
+    top45/
+      /human_trafficking/
+
+\- ⚛️Energy Independence⚛️
+
+    /top45/
+      /energy_independence/
 
 \- Healthcare Reform ("Right to try", ending mandate, lowering costs, opening cross-state markets, price transparency, EOs on pre-existing conditions, preseciption prices, etc)
 
-\- Veterans Affairs reform
+    top45/
+      /healthcare/
+      /healthcare/
+        /right_to_try/
+
+
+\- Veterans Affairs
+
+    top45/
+      /va/
 
 \- Women's Global Development and Prosperity Initiative
 
-\- Eliminating the ISIS Caliphate
+    top45/
+      /w-gdp/
 
-\- Killing Solomani and AlBaghdadi
+\- 💯ISIS Extermination💯
+
+    top45/
+      /isis_dot_rip/
+
+\- 💯Takedown of Qasem Soleimani and Al Baghdadi💯
+
+    top45/
+      /iran_takedown/
 
 \- Ending Iran Deal (JCPOA)
+
+    top45/
+      /jcpoa/
 
 \- Made Animal Cruelty a Federal Felony
 
