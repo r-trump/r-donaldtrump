@@ -50,13 +50,31 @@
 
   - win
   
-**Overall:**
+
+
+## // DEV SUBSECTION
+
+### "Wins" (SubPages)
+
+**Wins:**
+
 
 \- Space Force
 
-\- NASA/SpaceX
+    space_force/
 
-\- First Step Act &  Ready to Work Initiative  (Prison reform)
+\- NASA
+
+    nasa/
+    /nasa/nasa_spacex
+
+\- Prison Reform
+
+    prison_reform
+    /prison_reform/first_step_act
+    /prison_reform/ready_to_work_initiative
+  - First Step Act
+  - Ready to Work Initiative  (Prison reform)
 
 \- Opportunity Zones (Low income city projects)
 
