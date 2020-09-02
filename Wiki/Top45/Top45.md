@@ -370,29 +370,16 @@
     - Of, "Totally and Permanently Disabled Veterans".
 -------
 
+### W-GDP
+
 \- Women's Global Development and Prosperity Initiative
 
     top45/
       /w-gdp/
 --------
 
-\- 💯ISIS Extermination💯
 
-    top45/
-      /isis_dot_rip/
---------
-
-\- 💯Takedown of Qasem Soleimani and Al Baghdadi💯
-
-    top45/
-      /iran_takedown/
---------
-
-\- Ending Iran Deal (JCPOA)
-
-    top45/
-      /jcpoa/
---------
+### Eliminating Animal Cruelty
 
 \- Preventing Animal Cruelty and Torture Act (PACT)
 
@@ -402,21 +389,34 @@
   - [Congress.gov](https://www.congress.gov/bill/116th-congress/house-bill/724/text) 
 --------
 
+### Tribal Sovereignty // Native Culture
+
 \- Tribal Sovereignty + Native Culture
 
     top45/
       /tribal_sovereignty/
 
   - Trump signed 3 bills for Native people: 
-    - 1 gives compensation to the Spokane tribe for loss of their land in the 1900s
-    - 1 reauthorizes funding for Native language programs
-    - 1 gives federal recognition to the Little Shell Tribe of Chippewa Indians
+    1. Gives compensation to the Spokane Tribe
+        - For loss of their land in the 1900s
+    2. Reauthorizes funding for Native Language programs.
+    3. Gives federal recognition:
+        - To, the Little Shell Tribe of Chippewa Indians
 -------
+
+### CBD // Hemp
 
 \-  CBD and Hemp
 
     top45/
       /cbd_hemp/
+
+  - Unlock our nation's potential.
+  - Ending useless regulations on hemp fibers.
+    - To, utilize a trusted fiber. 
+      - Long having been neutered due to failed prohibitionist policies.
+  - Enabling research into medical usage, and safe tested usage of CBD. 
+    - To, further the public health of Americans.
 -----
 
 ### Water
@@ -461,19 +461,47 @@
         - Including microfibers, in food supplies and sources of drinking water.
 --------
 
-
-
+### Middle East
 
 \- Syria
 
     top45/
       /syria/
 
+
 \- Afghanistan
 
     top45/
       /afghanistan/
+
+
+\- Ending Iran Deal (JCPOA)
+
+    top45/
+      /jcpoa/
+
+  - Ending **Bad** Deals
+    - Both parties must uphold a deal. 
+    - If only one does, then it is a lopsided and disrespectful affront to the American people.
+    - As promised Donald J. Trump withdrew the US from JCPOA.
+  - American First!
 ------
+
+### ISIS Extermination
+
+\- 💯ISIS Extermination💯
+
+    top45/
+      /isis/
+--------
+
+### Qasem Soleimani and Al Baghdadi
+
+\- 💯Takedown of Qasem Soleimani and Al Baghdadi💯
+
+    top45/
+      /iran_takedown/
+--------
 
 ### Economy
 
@@ -489,6 +517,16 @@
   - STONKS
   - Going up, posting records, even during global pandemic (Novel Covid-19).
 
+
+\- Manufacturing Boom
+
+    top45/
+      /economy/
+        /manufacturing/
+
+  - Economy - Manufacturing
+
+
 \- Historic Black Employment 
 
     top45/
@@ -500,6 +538,7 @@
   - Historic Black Workforce Participation Rate
   - Historically Black Colleges and Universities
     - Employment funding, education, and investment.
+
 
 \- Disability Workforce // Employment Initiatives
 
@@ -522,7 +561,6 @@
       - [ABLE Reform](https://secure.ssa.gov/apps10/poms.nsf/lnx/0501130740)
       - Beneficiarial Enablement
   
-
 
 - Policy Direction: __En__-abling Financial Independence
 
@@ -588,10 +626,9 @@
         - Waterworks Funding // Flood Control
         - Infrastructure Funding // Rural Loans
         - Utilities Expansion // Internet
-
 ------
 
-
+### Child Care
 
 \- Child Care
 
@@ -605,14 +642,17 @@
   - Expansion of Federal Maternity Leave
     - Nursing Mothers
     - Post-Pregnancy/etc.
-  
+-----
 
-\- NATO Spending
+### NATO
+
+\- NATO Defense Contribution
 
     top45/
       /nato/
     
   - America First
+  - NATO Defense Contribution
 
 \- Opioid Epidemic
 
@@ -634,7 +674,7 @@
     - Solving a longstanding issue.
     - Working to secure our nation's future!
 
-\- Manufacturing Boom
+
 
 \- Environmental Reform
 
