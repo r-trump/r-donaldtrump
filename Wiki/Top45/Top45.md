@@ -124,6 +124,11 @@
 
     top45/
       /space_force/
+
+  - Ensuring our American Spacial Sovereignty!
+  - We Love Our Military!
+  - SPACE FORCE: The Entire Horizon is our Nation's Future!
+
 -----
 
 ### Prison System Reform
