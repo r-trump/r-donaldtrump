@@ -49,21 +49,18 @@
 ### Win #10:
 
   - win
-  
+-----  
 
 
 ## // DEV SUBSECTION
 
+-----
+
 ### "Wins" (SubPages)
 
 **Wins:**
+
 -------
-
-\- Space Force
-
-    top45/
-      /space_force/
------
 
 ### NASA
 
@@ -77,7 +74,15 @@
     top45/
       /nasa/
         /spacex/
+-----
 
+### United States Space Force
+
+\- Space Force
+
+    top45/
+      /space_force/
+-----
 
 ### Prison System Reform
 
@@ -173,6 +178,8 @@
 - **Eliminating** recidivism and crime.
 -----
 
+### Opportunity Zone
+
 \- Opportunity Zones (Inner City Revitalization)
 
     top45/
@@ -183,6 +190,8 @@
 
 -----
 
+### HBCU
+
 \- Historically Black Colleges and Universities (HBCU)
 
     top45/
@@ -191,6 +200,8 @@
   - Permanent Funding
   - Focus w/economic future security.
 -----
+
+### USMCA
 
 \- USMCA
 
@@ -201,8 +212,9 @@
   - [USTR.gov](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement)
   - [Agreement Full-Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between)
   - Renegotiation of the North American Free Trade Agreement (NAFTA)
-
 -----
+
+### TPP
 
 \- 🙅‍♀️Yeeting the Trans-Pacific Partnership🙅‍♀️
 
@@ -217,7 +229,6 @@
 - Donald J. Trump proved his *dedication*, and *intent* to serve our nation.
   - With *actions*, demonstrating a man of character.
   - Who **keeps** his promises.
-
 -----
 
 ### TCJA
