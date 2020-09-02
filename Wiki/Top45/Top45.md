@@ -163,6 +163,24 @@
         /right_to_try/
 
 
+
+\- Ending the HIV Epidemic: A Plan for America
+
+    top45/
+      /healthcare/
+        /hiv/
+  - [Donald J. Trump’s SOTU](https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-state-union-address-2/)
+    - 2019-02-05
+  - [HIV.gov](https://www.hiv.gov/federal-response/ending-the-hiv-epidemic/overview/ending-epidemic-timeline)
+  - [PrEP](https://www.hhs.gov/about/news/2019/12/03/ready-set-prep-expands-access-to-medication-to-prevent-hiv.html)
+    - Ready, Set, PrEP
+    - HIV preventative medications for approximately 200,000~ uninsured patients. 
+    - Per year for 11 years.
+    - Truvada: 
+      ![Truvada](https://media.npr.org/assets/img/2019/12/04/truvada-1_custom-a53d07a70888a7b85336d1262f84510d3c5506a0-s1600-c85.jpg)
+        ###### Source: [NPR](https://www.npr.org/sections/health-shots/2019/12/04/784733337/hiv-prevention-drugs-are-available-for-free-how-do-you-get-them)
+    - Is one of the HIV prevention drugs. Within the HHS's new program.
+
 \- Veterans Affairs
 
     top45/
