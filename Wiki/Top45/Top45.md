@@ -220,6 +220,8 @@
 
 -----
 
+### TCJA
+
 \- Tax ✂️Cuts✂️ and Jobs Act
 
     top45/
@@ -230,10 +232,17 @@
   - Sweeping changes to the tax code.
 -----
 
+### Efficiency vs Bloat
+
 \- Regulation ✂️Cuts✂️
 
     top45/
       /regulation_cuts/
+
+    - Regulation Cuts
+    - For: 
+      - Every 1 created.
+      - 2 duplicitous are removed. 
 -----
 
 ### Supreme Court
