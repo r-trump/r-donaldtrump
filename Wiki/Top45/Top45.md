@@ -57,26 +57,59 @@
 ### "Wins" (SubPages)
 
 **Wins:**
-
+-------
 
 \- Space Force
 
     top45/
       /space_force/
+-----
+
+### NASA
 
 \- NASA
 
     top45/  
       /nasa/
+
+\- SpaceX 
+
+    top45/
+      /nasa/
         /spacex/
 
-\- Prison Reform
 
-    prison_reform/
-      /prison_reform/first_step_act
-      /prison_reform/ready_to_work_initiative
-  - First Step Act
-  - Ready to Work Initiative  (Prison reform)
+### Criminal Justice Reform
+
+    top45/
+      /prison_reform/
+      
+  - Prison Reform **General**
+  - Recidivism Rates
+  - Ending Life-Sentences for Nonviolent Drug Offenders
+    - See: 
+      - [Pardoning](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-granting-full-pardon-alice-johnson/) of Nonviolent Drug Offenders
+  - 
+
+\- First Step Act
+
+    top45/
+      /prison_reform/
+        /first_step_act/
+
+  - [Congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/5682/text)
+
+\- Ready to Work Initiative
+
+    top45/
+      /prison_reform/
+        /ready_to_work_initiative/
+
+  - Prison Reform
+  
+
+
+
 
 \- Opportunity Zones (Inner City Revitalization)
 
@@ -88,7 +121,6 @@
     top45/
       /HBCU/
 
-  - HBCU work
 
 \- USMCA
 
@@ -218,25 +250,36 @@
     top45/
       /va/
 
+  - Veterans Affairs (VA)
+  - Policy Direction // Reforms
+  - [Federal Student Loan Discharge](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-discharging-federal-student-loan-debt-totally-permanently-disabled-veterans/)
+    - Discharging federal student loan debt.
+    - Of, "Totally and Permanently Disabled Veterans".
+-------
+
 \- Women's Global Development and Prosperity Initiative
 
     top45/
       /w-gdp/
+--------
 
 \- 💯ISIS Extermination💯
 
     top45/
       /isis_dot_rip/
+--------
 
 \- 💯Takedown of Qasem Soleimani and Al Baghdadi💯
 
     top45/
       /iran_takedown/
+--------
 
 \- Ending Iran Deal (JCPOA)
 
     top45/
       /jcpoa/
+--------
 
 \- Preventing Animal Cruelty and Torture Act (PACT)
 
@@ -244,6 +287,7 @@
       /pact/
 
   - [Congress.gov](https://www.congress.gov/bill/116th-congress/house-bill/724/text) 
+--------
 
 \- Tribal Sovereignty + Native Culture
 
@@ -302,28 +346,91 @@
         - On, *microplastics* 
         - Including microfibers, in food supplies and sources of drinking water.
 
-
-
-
-
-
-
-
-\- Record unemployment prior to COVID (including reversing the downward trending "labor force participation rate")
-
 \- Poverty rates at record low prior to COVID
 
 \- Syria
 
+    top45/
+      /syria/
+
 \- Afghanistan
 
+    top45/
+      /afghanistan/
+------
+
+### Economy
+
+    top45/
+      /economy/
+
 \- Stock Market
+
+    top45/
+      /economy/
+        /market/
+
+  - STONKS
+  - Going up, posting records, even during global pandemic (Novel Covid-19).
+
+\- Historic Black Employment 
+
+    top45/
+      /economy/
+        /black_employment/
+
+- See:
+  - Historically __*low*__ black __un__-employment rates.
+  - Historic Black Workforce Participation Rate
+  - Historically Black Colleges and Universities
+    - Employment funding, education, and investment.
+
+\- Disability Workforce // Employment Initiatives
+
+    top45/
+      /economy/
+        /disability/
+
+  - ABLE Act Policy Reform
+    - [Congress.gov](https://www.congress.gov/bill/113th-congress/house-bill/647)
+      ##### Initial 2014 Act (Reference)
+    - Policy Direction: 
+      - To, spur workforce participation. 
+      - Enabling those most vulnerable, a leg _up_ and a path _forward_.
+    - Social Security Administration (SSA)
+      - [ABLE Reform](https://secure.ssa.gov/apps10/poms.nsf/lnx/0501130740)
+      - Beneficiarial Enablement
+  
+
+- Veteran Reform   
+  - [Federal Student Loan Discharge](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-discharging-federal-student-loan-debt-totally-permanently-disabled-veterans/)
+  - Discharging federal student loan debt.
+  - Of, "Totally and Permanently Disabled Veterans".
+
+- Policy Direction: ENabling Financial Independence
+  - Beneficiary's increased fiduciary control of their lives. 
+  - __*Starting*__ to free those most vulnerable from:
+    - Longstanding __dis__-abling policy. 
+    - Of *implied* and, in practice, **enforced**. 
+      - Reliance on *others*.
+      ##### Third-party control of beneficiary's livelihood.
+  - __*Starting*__ to finally acknowledge the concept of "forced caregiving". 
+    - Its failures in providing *any* care to beneficiaries.
+    - The inherent fallacy in believing family *will* shoulder a *burden*.
+    - With no **enforcement** of current laws surrounding "child" support.
+    - With no **support** of future **solutions** to ENable indepence from "family". By *defualt*, always.
+  
+  - Allowing those who are __ABLE__, to fiduciarily manage their life, to *do* so.
+
+------
+
+
 
 \- Child Care
 
 \- NATO Spending
 
-\- Opioid Epedemic
+\- Opioid Epidemic
 
 \- Education Reform - Vocation Focus, Ending Common Core, Apprentice Program, etc
 
