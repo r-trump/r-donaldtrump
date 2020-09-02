@@ -272,16 +272,30 @@
       /lobbying/
 -----
 
+### Ending Human Trafficking
+
 \- Ending Human Trafficking
 
     top45/
       /human_trafficking/
+
+  - Ending Human Trafficking
+    - Now and for future generations!
+    - Securing our nation's borders, and its' children!
 -----
+
+### Energy Independence
 
 \- ⚛️Energy Independence⚛️
 
     /top45/
       /energy_independence/
+
+  - Energy Independence
+  - 100% Security from Foreign Influence
+  - 100% Oil // Natural Gas Independence
+  - 0% **Required** reliance on foreign Oil // Natural Gas.
+  - 100% Support of our nation's energy industries!  
 -----
 
 ### Healthcare Reform
@@ -345,7 +359,7 @@
     - For those *unable* to access investigational medical products. 
       ##### - (Clinical Trials)
     - For patients with serious, life-threatening diseases, or conditions.
-------
+-----
 
 ### Novel Covid-19
 
@@ -357,6 +371,9 @@
     - As in dictated by HHS.
 
 ------
+
+### VA
+
 \- Veterans Affairs
 
     top45/
@@ -376,8 +393,9 @@
 
     top45/
       /w-gdp/
---------
 
+  - W-GDP
+--------
 
 ### Eliminating Animal Cruelty
 
