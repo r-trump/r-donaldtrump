@@ -248,16 +248,10 @@
       /build_the_wall/
 -----
 
-\- Immigration (ending sactuary city funds, MS13, criminal deportations, etc)
+\- Immigration (ending sanctuary city funds, MS13, criminal deportations, etc)
 
     top45/
       /immigration/
------
-
-\- Israel Relations
-
-    top45/
-      /israel/
 -----
 
 ### PEACE 4 KOREA
@@ -519,7 +513,21 @@
     - If only one does, then it is a lopsided and disrespectful affront to the American people.
     - As promised Donald J. Trump withdrew the US from JCPOA.
   - American First!
-------
+
+
+\- Israel Relations
+
+    top45/
+      /israel/
+  
+  - Israel International Relations
+  - Israel (Middle East) Mutual Peace 
+    - Between Neighbors
+    - Palestine Peace
+    - Passage allowance between Muslims, and Jews. To mutual holy sites. 
+    - For freedom of worship and a lasting relationship. 
+    - Fostering peace now, and in the future.
+-----
 
 ### ISIS Extermination
 
