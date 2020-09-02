@@ -155,32 +155,67 @@
 
 ### Healthcare Reform
 
-\- Healthcare Reform ("Right to try", ending mandate, lowering costs, opening cross-state markets, price transparency, EOs on pre-existing conditions, prescription prices, etc)
+\- Healthcare Reform (, ending mandate, lowering costs, opening cross-state markets, price transparency, EOs on pre-existing conditions, prescription prices, etc)
 
     top45/
       /healthcare/
-      /healthcare/
-        /right_to_try/
 
-
+  - Ending The Mandate
+  - Lowering Costs
+  - Opening Cross-State Markets
+  - Price Transparency
+  - Pre-Existing Conditions
+  - Prescription Prices
 
 \- Ending the HIV Epidemic: A Plan for America
 
     top45/
       /healthcare/
         /hiv/
+  
   - [Donald J. Trump’s SOTU](https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-state-union-address-2/)
     - 2019-02-05
   - [HIV.gov](https://www.hiv.gov/federal-response/ending-the-hiv-epidemic/overview/ending-epidemic-timeline)
   - [PrEP](https://www.hhs.gov/about/news/2019/12/03/ready-set-prep-expands-access-to-medication-to-prevent-hiv.html)
     - Ready, Set, PrEP
-    - HIV preventative medications for approximately 200,000~ uninsured patients. 
-    - Per year for 11 years.
-    - Truvada: 
-      ![Truvada](https://media.npr.org/assets/img/2019/12/04/truvada-1_custom-a53d07a70888a7b85336d1262f84510d3c5506a0-s1600-c85.jpg)
-        ###### Source: [NPR](https://www.npr.org/sections/health-shots/2019/12/04/784733337/hiv-prevention-drugs-are-available-for-free-how-do-you-get-them)
-    - Is one of the HIV prevention drugs. Within the HHS's new program.
+    - Provides: 
+        - HIV preventative medications for approximately 200,000~ uninsured patients. 
+        - Per year for 11 years.
+    
+          Truvada: 
+          ![Truvada](https://media.npr.org/assets/img/2019/12/04/truvada-1_custom-a53d07a70888a7b85336d1262f84510d3c5506a0-s1600-c85.jpg)
+            ##### Source: [NPR](https://www.npr.org/sections/health-shots/2019/12/04/784733337/hiv-prevention-drugs-are-available-for-free-how-do-you-get-them)
+    
+      - Above example of one medication in the HHS's program.
 
+\- Right To Try Act
+
+    top45/
+      /healthcare/
+        /right_to_try/
+
+  - Otherwise known as: 
+      - Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act
+  - [FDA.gov](https://www.fda.gov/patients/learn-about-expanded-access-and-other-treatment-options/right-try)
+  - ["Right to Try" - FDA Fact Sheet (PDF)](https://www.fda.gov/media/133864/download)
+  - [Expanded Access Program](https://www.fda.gov/news-events/public-health-focus/expanded-access)
+    - For those *unable* to access investigational medical products. 
+      ##### - (Clinical Trials)
+    - For patients with serious, life-threatening diseases, or conditions.
+------
+
+### Novel Covid-19
+
+\- Novel Covid-19
+
+    top45/
+      /covid-19/
+
+  - // In progress: //
+    - __TIMELINE__ on, response efforts in date ascending order.
+    - As in dicated by HHS's listing.
+
+------
 \- Veterans Affairs
 
     top45/
@@ -274,7 +309,7 @@
 
 
 
-\- Coronavirus Response
+
 
 \- Record unemployment prior to COVID (including reversing the downward trending "labor force participation rate")
 
