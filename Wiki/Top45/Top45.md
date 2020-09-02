@@ -242,16 +242,47 @@
       /supreme_court/
 -----
 
+### Border Security
+
 \- Border Security (🧱THE WALL🧱)
 
     top45/
       /build_the_wall/
+
+  - Immigration
+    - Border security
+    - Border entry/exit security
+    - TSA Reform
+    - *Effective* policy implementations.
 -----
+
+### Immigration
 
 \- Immigration (ending sanctuary city funds, MS13, criminal deportations, etc)
 
     top45/
       /immigration/
+
+  - Immigration
+    - Border security
+    - Border entry/exit security
+    - TSA Reform
+    - *Effective* policy implementations.
+  - H1-B Visa Reform
+    - Ending the "in demand" career loopholes.
+    - De-Incentivizing the "Psuedo-Slavery" // "Second-Class Citizenship"
+    - Resulting from any third-party (sponsor) "holding" ones Visa hostage. 
+    - Eliminating an immigrant's freedom to participate economically.
+    - Denying the leverage that capitalism affords. 
+    - Forcing immigrant's into nothing less than decades of slavery.
+    - Working towards an American Dream they are promised. But, never upfront granted *their* chance to **earn**.
+    - Donald J. Trump *heard* the outcry, and ended [these](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-putting-american-workers-first-restore-economy-greatness/) and other violations.
+
+  - ticket into our great nation.
+  - Border Security
+    - The Wall
+    - ICE Funding // Support
+      - Enablement of our law enforcement. In service to their nation!
 -----
 
 ### PEACE 4 KOREA
