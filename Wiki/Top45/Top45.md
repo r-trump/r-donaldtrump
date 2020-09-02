@@ -49,6 +49,7 @@
 ### Win #10:
 
   - win
+
 -----  
 
 
@@ -223,6 +224,7 @@
     - To, reduce recidivism, *gaining* and *retaining* employment
 - **ALL** benefit from enabling post-sentenced living with dignity and meaning. 
 - **Eliminating** recidivism and crime.
+
 -----
 
 ### Opportunity Zone
@@ -246,6 +248,7 @@
 
   - Permanent Funding
   - Focus w/economic future security.
+
 -----
 
 ### USMCA
@@ -259,6 +262,7 @@
   - [USTR.gov](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement)
   - [Agreement Full-Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between)
   - Renegotiation of the North American Free Trade Agreement (NAFTA)
+
 -----
 
 ### TPP
@@ -276,6 +280,7 @@
 - Donald J. Trump proved his *dedication*, and *intent* to serve our nation.
   - With *actions*, demonstrating a man of character.
   - Who **keeps** his promises.
+
 -----
 
 ### TCJA
@@ -288,6 +293,7 @@
   - [Congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/1/text)
   - [IRS.gov](https://www.irs.gov/tax-reform)
   - Sweeping changes to the tax code.
+
 -----
 
 ### Efficiency vs Bloat
@@ -301,6 +307,7 @@
     - For: 
       - Every 1 created.
       - 2 duplicitous are removed. 
+
 -----
 
 ### Supreme Court
@@ -318,6 +325,7 @@
         - Add small background info/history. For each Justice. 
     - In date ascending order.
     - As in dictated by DOJ.
+
 -----
 
 ### Border Security
@@ -332,6 +340,7 @@
     - Border entry/exit security
     - TSA Reform
     - *Effective* policy implementations.
+
 -----
 
 ### Immigration
@@ -361,6 +370,7 @@
     - The Wall
     - ICE Funding // Support
       - Enablement of our law enforcement. In service to their nation!
+
 -----
 
 ### PEACE 4 KOREA
@@ -376,6 +386,7 @@
     - Against: 
       - *Un-Provoked* North Korean Aggression 
       - Missile Testing
+
 -----
 
 ### Lobbying Reform
@@ -389,6 +400,7 @@
   - Lobbying Reform
   - Enforcement of our standing laws!
     - To, fight corruption, and prevent it for future generations!
+
 -----
 
 ### Ending Human Trafficking
@@ -401,6 +413,7 @@
   - Ending Human Trafficking
     - Now and for future generations!
     - Securing our nation's borders, and its' children!
+
 -----
 
 ### Energy Independence
@@ -415,6 +428,7 @@
   - 100% Oil // Natural Gas Independence
   - 0% **Required** reliance on foreign Oil // Natural Gas.
   - 100% Support of our nation's energy industries!  
+
 -----
 
 ### Healthcare Reform
@@ -478,6 +492,7 @@
     - For those *unable* to access investigational medical products. 
       ##### - (Clinical Trials)
     - For patients with serious, life-threatening diseases, or conditions.
+
 -----
 
 ### Novel Covid-19
@@ -489,7 +504,7 @@
     - __TIMELINE__ on, response efforts in date ascending order.
     - As in dictated by HHS.
 
-------
+-----
 
 ### VA
 
@@ -504,7 +519,8 @@
     - [Federal Student Loan Discharge](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-discharging-federal-student-loan-debt-totally-permanently-disabled-veterans/)
     - Discharges federal student loan debt.
     - Of, "Totally and Permanently Disabled Veterans".
--------
+
+-----
 
 ### W-GDP
 
@@ -514,7 +530,8 @@
       /w-gdp/
 
   - W-GDP
---------
+
+-----
 
 ### Eliminating Animal Cruelty
 
@@ -524,7 +541,8 @@
       /pact/
 
   - [Congress.gov](https://www.congress.gov/bill/116th-congress/house-bill/724/text) 
---------
+
+-----
 
 ### Tribal Sovereignty // Native Culture
 
@@ -539,7 +557,8 @@
     2. Reauthorizes funding for Native Language programs.
     3. Gives federal recognition:
         - To, the Little Shell Tribe of Chippewa Indians
--------
+
+-----
 
 ### CBD // Hemp
 
@@ -554,6 +573,7 @@
       - Long having been neutered due to failed prohibitionist policies.
   - Enabling research into medical usage, and safe tested usage of CBD. 
     - To, further the public health of Americans.
+
 -----
 
 ### Water
@@ -596,7 +616,8 @@
       
         - On, *microplastics* 
         - Including microfibers, in food supplies and sources of drinking water.
---------
+
+-----
 
 ### Middle East
 
@@ -636,6 +657,7 @@
     - Passage allowance between Muslims, and Jews. To mutual holy sites. 
     - For freedom of worship and a lasting relationship. 
     - Fostering peace now, and in the future.
+
 -----
 
 ### ISIS Extermination
@@ -644,7 +666,8 @@
 
     top45/
       /isis/
---------
+
+-----
 
 ### Qasem Soleimani and Al Baghdadi
 
@@ -652,7 +675,8 @@
 
     top45/
       /iran_takedown/
---------
+
+-----
 
 ### Economy
 
@@ -777,7 +801,8 @@
         - Waterworks Funding // Flood Control
         - Infrastructure Funding // Rural Loans
         - Utilities Expansion // Internet
-------
+
+-----
 
 ### Child Care
 
@@ -793,6 +818,7 @@
   - Expansion of Federal Maternity Leave
     - Nursing Mothers
     - Post-Pregnancy/etc.
+
 -----
 
 ### NATO
@@ -804,6 +830,7 @@
     
   - America First
   - NATO Defense Contribution
+
 -----
 
 ### Eliminating the Opioid Epidemic
@@ -814,6 +841,7 @@
       /opioid_epidemic/
   
   - Fight to **Eliminate Opioid Epidemic** 
+
 -----
 
 ### 📚Education📚
@@ -833,6 +861,7 @@
   - Vocation Focus
   - Ending Common Core
   - Apprentice Program
+
 -----
 
 ### Environment
@@ -857,6 +886,7 @@
   - **Prosecution** of violators!
     - No country, company, or person. Will be allowed quarter. 
       - In our duty to preserve our nation's treasured outdoors.
+
 -----
 
 ### Religious Freedoms
@@ -884,6 +914,7 @@
     - On // Off Campus
     - Of any federally funded College, or University.
     - Students have nothing to fear with Donald J. Trump! Protecting peaceful practicing of **All** faiths!
+
 -----
 
 ### Defeated Hillary Clinton
@@ -895,4 +926,5 @@
 
   - Hillary Clinton 
   - 2016 Landslide Defeat!
+
 -----
