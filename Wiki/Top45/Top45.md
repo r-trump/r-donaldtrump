@@ -208,12 +208,26 @@
 
     top45/
       /transpacificpartnership/
+
+- America First
+- Trump stands strong against the communist's (DNC's) attempts to weaken our nation.
+- Instead of allowing our trade, energy, and service sectors. To receive an unrecoverable blow.
+- Donald J. Trump [*withdrew*](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-regarding-withdrawal-united-states-trans-pacific-partnership-negotiations-agreement/) the US from this insidious affront to our sovereignty.
+- As one of his **very first** actions in office. 
+- Donald J. Trump proved his *dedication*, and *intent* to serve our nation.
+  - With *actions*, demonstrating a man of character.
+  - Who **keeps** his promises.
+
 -----
 
-\- Tax Cuts and Jobs Act
+\- Tax ✂️Cuts✂️ and Jobs Act
 
     top45/
       /TCJA/
+
+  - [Congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/1/text)
+  - [IRS.gov](https://www.irs.gov/tax-reform)
+  - Sweeping changes to the tax code.
 -----
 
 \- Regulation ✂️Cuts✂️
@@ -281,6 +295,19 @@
   - Price Transparency
   - Pre-Existing Conditions
   - Prescription Prices
+  - Securing Social Security for our Elders
+    - Social Security (SSDI/Pay-Roll Tax) moving to the *guaranteed* General Fund.
+    - From the unreliable funding structures using 12% pay-roll taxes. 
+      - Which Fails: 
+        - Contractors + self-employed. 
+        - Through their required full contributions of 12% income to the fund.
+      - Which Fails:
+        - Employer's and Gainfully Employed Employee's **Alike**
+        - Through required 6% pay match contribution. Matching *employee*.
+        - Through required 6% income contribution. Matching *employer*.
+    - To eliminating the payroll tax. During the Novel Covid-19 global pandemic.
+    - **Proving** America's Elders will not be left behind during a National Emergency. 
+    - **Nor** in any circumstances.
 
 \- Ending the HIV Epidemic: A Plan for America
 
