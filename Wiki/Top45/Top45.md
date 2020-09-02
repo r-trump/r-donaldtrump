@@ -72,9 +72,9 @@
 
 \- Prison Reform
 
-    prison_reform
-    /prison_reform/first_step_act
-    /prison_reform/ready_to_work_initiative
+    prison_reform/
+      /prison_reform/first_step_act
+      /prison_reform/ready_to_work_initiative
   - First Step Act
   - Ready to Work Initiative  (Prison reform)
 
@@ -87,6 +87,8 @@
 
     top45/
       /HBCU/
+
+  - HBCU work
 
 \- USMCA
 
@@ -149,8 +151,11 @@
 
     /top45/
       /energy_independence/
+-----
 
-\- Healthcare Reform ("Right to try", ending mandate, lowering costs, opening cross-state markets, price transparency, EOs on pre-existing conditions, preseciption prices, etc)
+### Healthcare Reform
+
+\- Healthcare Reform ("Right to try", ending mandate, lowering costs, opening cross-state markets, price transparency, EOs on pre-existing conditions, prescription prices, etc)
 
     top45/
       /healthcare/
@@ -183,23 +188,75 @@
     top45/
       /jcpoa/
 
-\- Made Animal Cruelty a Federal Felony
+\- Preventing Animal Cruelty and Torture Act (PACT)
 
-\-  Trump signed 3 bills for Native people. 1 gives compensation to the Spokane tribe for loss of their land in the 1900s, 1 reauthorizes funding for Native language programs & 1 gives federal recognition to the Little Shell Tribe of Chippewa Indians.
+    top45/
+      /pact/
 
-\-  Trump signed bill making CBD and Hemp legal
 
-\-  Trump’s EPA gave $100 million to fix the water infrastructure problem in Flint, Michigan (include other such projects here?)
+\- Tribal Sovereignty + Native Culture
 
-\-  USDA committed more than $124 Million to help rebuild rural water infrastructure.
+    top45/
+      /tribal_sovereignty/
+
+  - Trump signed 3 bills for Native people: 
+    - 1 gives compensation to the Spokane tribe for loss of their land in the 1900s
+    - 1 reauthorizes funding for Native language programs
+    - 1 gives federal recognition to the Little Shell Tribe of Chippewa Indians
+
+\-  CBD and Hemp
+
+    top45/
+      /cbd_hemp/
+-----
+
+### Water
+
+
+\- Flint Drinking Water Response
+
+    top45/
+      /water/
+        /flint/
+
+- Trump directed the EPA to give $100 million to:
+    - Michigan Department of Environmental Quality 
+    - For: Flint, Michigan
+    - Provided by the Water Infrastructure Improvements for the Nation Act of 2016
+    - [EPA.gov](https://archive.epa.gov/epa/newsreleases/epa-awards-100-million-michigan-flint-water-infrastructure-upgrades.html)
+
+\-  Rural Water and Wastewater Improvements
+
+    top45/
+      /water/
+        /rural_water/
+
+  - [Water & Waste Disposal Loan & Grant Program](https://www.rd.usda.gov/programs-services/water-waste-disposal-loan-grant-program)
+  - [Rural Water and Wastewater Improvements](https://www.usda.gov/media/press-releases/2020/05/27/usda-invests-281-million-rural-water-and-wastewater-infrastructure)
+
+\-  Save our Seas Act
+
+    top45/
+      /water/
+        /save_our_seas/
+
+  - [Donald J. Trump's Remarks](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-s-3508-save-seas-act-2018/)
+  - [Congress.gov](https://www.congress.gov/bill/116th-congress/senate-bill/1982)
+  - Provides: 
+      - Funding to clean *Marine Debris* from our waterways. 
+      - Funding to R&D, through the National Academies.
+      - Funding to NIST to conduct a study to certify circular polymers.
+      - Funding to National Academies to conduct human health/environmental risk assessment.
+      
+        - On, *microplastics* 
+        - Including microfibers, in food supplies and sources of drinking water.
+
+
+
+
+
 
 \- Coronavirus Response
-
-\-  Save our Seas Act which funds $10 million per year to clean tons of plastic & garbage from the ocean
-
-\-  HIV prevention drug for free to 200,000 uninsured patients per year for 11 years
-
-\- HBCU work
 
 \- Record unemployment prior to COVID (including reversing the downward trending "labor force participation rate")
 
