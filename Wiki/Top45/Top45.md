@@ -113,7 +113,9 @@
       - Its key to our imminent **Mars** exploration. 
   - So, Donald J. Trump quickly moved: 
     - To, ensure SpaceX's allegiance to the United States of America.  
-    - Its access to the American people and its share in future prosperity of our nation.
+    - Its access to the American people.
+    - Its share in the future prosperity of our nation.
+
 -----
 
 ### United States Space Force
