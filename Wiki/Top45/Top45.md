@@ -532,19 +532,62 @@
     - Of *implied* and, in practice, **enforced**. 
       - Reliance on *others*.
       ##### Third-party control of beneficiary's livelihood.
-  - __*Starting*__ to finally acknowledge the concept of "forced caregiving". 
+  - __*Starting*__ to finally acknowledge the concept of "forced caregiving".
     - Its failures in providing *any* care to beneficiaries.
-    - The inherent fallacy in believing family *will* shoulder a *burden*.
-    - With no **enforcement** of current laws surrounding "child" support.
-    - With no **support** of future **solutions** to ENable indepence from "family". By *defualt*, always.
-  
-  - Allowing those who are __ABLE__, to fiduciarily manage their life, to *do* so.
+    - The fallacy in assuming family *will* shoulder a *burden*.
+      - With no **enforcement** of current laws surrounding "child" support.
+      - With no **support** of future **solutions** devoid of "family".
+  - __*Moving*__ to solutions:
+    - **Supporting** caregivers who are *willing* and *able*.
+    - **Supporting** caregivers irregardless of "defined" circumstances.
+    - **Funding** caregiving irregardless of *defined* circumstances.
 
-\- Poverty rates at record low prior to COVID
+- Donald J. Trump has proven results.
+  - For the first time:
+    - Attempting what **no other** president has.
+    - Attempting what **no other** administration has.
+  - To, solve issues shackling our most vulnerable. 
+  - To, ENable as many Americans as possible.
+  - Irregardless of born, acquired in service, or in accident. 
+- In the 1st Term, 
+  - He's *posted* results. 
+  - Tackling tough generation spanning issues.
+- In the 2nd Term, 
+  - He will *eliminate* the remaining issues.
+
+
+\- Poverty Crushing Policies
 
     top45/
       /economy/
         /poverty/
+
+  - Economy - Poverty Stats
+  - Huge Numbers
+    - High/Highest Workforce Participation!
+    - Amongst:
+    - **All** Races
+    - **All** Asset Levels
+    - **All** Geographical Ranges.
+- Policy Direction: Poverty Elimination
+  - **All** Races
+    - Assisting all.
+    - Eliminating perceived "status quo" discriminatory policies.
+  - **All** Asset Levels
+    - Assisting all.
+    - Independent of assessed land values (farmers, etc).
+    - Standing strong with the heartland of our nation. 
+    - To, **never** allow a "wealth" tax. 
+      - That, siphons American's ability to build a generational homestead. 
+      - For themselves and their descendants.
+  - **All** Geographical Ranges
+      - Urban (Inner City Revitalization // General Metropolitan)
+      - Suburban
+        - Ending Biden Implemented Forced Low-Income Housing
+      - Rural 
+        - Waterworks Funding // Flood Control
+        - Infrastructure Funding // Rural Loans
+        - Utilities Expansion // Internet
 
 ------
 
@@ -552,11 +595,44 @@
 
 \- Child Care
 
+    top45/
+      /child_care/
+
+  - Child Care General:
+  - Expansion of neonatal care,
+  - Expansion of daycare/
+    - Early Childhood Development // Pre-School,
+  - Expansion of Federal Maternity Leave
+    - Nursing Mothers
+    - Post-Pregnancy/etc.
+  
+
 \- NATO Spending
+
+    top45/
+      /nato/
+    
+  - America First
 
 \- Opioid Epidemic
 
+    top45/
+      /opioid_epidemic/
+  
+  - Fight to **Eliminate Opioid Epidemic** 
+
 \- Education Reform - Vocation Focus, Ending Common Core, Apprentice Program, etc
+
+    top45/
+      /education_reform/
+
+  - Education Reform
+  - Secretary Betsy DeVos
+  - School Choice
+  - Classroom
+  - Child Abuse and Neglect **Enforcement** and Detection
+    - Solving a longstanding issue.
+    - Working to secure our nation's future!
 
 \- Manufacturing Boom
 
