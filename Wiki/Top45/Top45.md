@@ -804,6 +804,9 @@
     
   - America First
   - NATO Defense Contribution
+-----
+
+### Eliminating the Opioid Epidemic
 
 \- Opioid Epidemic
 
@@ -811,24 +814,85 @@
       /opioid_epidemic/
   
   - Fight to **Eliminate Opioid Epidemic** 
+-----
 
-\- Education Reform - Vocation Focus, Ending Common Core, Apprentice Program, etc
+### 📚Education📚
+
+\- Education Reform
 
     top45/
       /education_reform/
 
-  - Education Reform
+  - Education Reform:
   - Secretary Betsy DeVos
   - School Choice
-  - Classroom
+  - Classroom Reform
   - Child Abuse and Neglect **Enforcement** and Detection
     - Solving a longstanding issue.
     - Working to secure our nation's future!
+  - Vocation Focus
+  - Ending Common Core
+  - Apprentice Program
+-----
 
-
+### Environment
 
 \- Environmental Reform
 
-\- Religious Freedoms
+    top45/
+      /environment/
+    
+  - Preserve and protect our nation's greatest treasure!
+  - Funding for National Parks
+    - Secure the great outdoors's future. Now and for future generations!
+    - Creation of new National Parks.
+  - Increased R&D for wildlife and urban integration.
+  - Increased R&D for wildlife control and maintenance.
+    - Rivers // Waterways:
+      - Invasive species fishing grants.
+    - Plants:
+      - Prevention of foreign *potential* invasive species cultivation.
+  - Physical pollution of waterways, and protection against industrial physical pollution.
+  - **Enforcement** of law and order! 
+  - **Prosecution** of violators!
+    - No country, company, or person. Will be allowed quarter. 
+      - In our duty to preserve our nation's treasured outdoors.
+-----
 
-\- Defeated Hillary Clinton (#1!)
+### Religious Freedoms
+
+\- Religion
+
+    top45/
+      /religion/
+
+  - Donald J. Trump:
+  - Has, protected American's ability to pray in school.
+  - Has, publicized in our highest office. 
+    - A priority to keep "God" in "One Nation Under God".
+  - Has, protected religious minorities.
+  - Has, fostered peace in the Middle East.
+    - Allowing, free passage of worship between Jews and Muslims.
+    - To, foster lasting freedoms of movements, between the Abrahamic faith's. 
+    - To, enable pilgrimages to their holiest of sites.
+  - Has, fought for students rights to pray within public schools.
+    - Elementary, middle, and high schools.
+    - Elementary, middle, and high schools. Allowance of religious service organizations.
+    - Elementary, middle, and high schools. Allowance of religious student run clubs.
+  - Has, fought for University Students/Graduate Students rights to worship.
+    - Expression of Faith // Worship. 
+    - On // Off Campus
+    - Of any federally funded College, or University.
+    - Students have nothing to fear with Donald J. Trump! Protecting peaceful practicing of **All** faiths!
+-----
+
+### Defeated Hillary Clinton
+
+\- Dethroning of Queen Hillary 
+
+    top45/
+      /hillaryclinton/
+
+  - Hillary Clinton 
+  - 2016 Landslide Defeat!
+-----
