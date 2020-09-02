@@ -205,14 +205,12 @@
 
 ### Novel Covid-19
 
-\- Novel Covid-19
-
     top45/
       /covid-19/
 
   - // In progress: //
     - __TIMELINE__ on, response efforts in date ascending order.
-    - As in dicated by HHS's listing.
+    - As in dictated by HHS.
 
 ------
 \- Veterans Affairs
@@ -245,6 +243,7 @@
     top45/
       /pact/
 
+  - [Congress.gov](https://www.congress.gov/bill/116th-congress/house-bill/724/text) 
 
 \- Tribal Sovereignty + Native Culture
 
