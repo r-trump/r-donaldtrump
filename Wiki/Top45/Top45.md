@@ -236,10 +236,21 @@
       /regulation_cuts/
 -----
 
+### Supreme Court
+
 \- Supreme Court Appointees & Federal Judges
 
     top45/
       /supreme_court/
+    
+  - // In progress: //
+  - Justices Appointed:
+    - __TIMELINE__ on, 
+      - Of Each Justice // Each Appointment
+        - Add desc of each Justice. 
+        - Add small background info/history. For each Justice. 
+    - In date ascending order.
+    - As in dictated by DOJ.
 -----
 
 ### Border Security
