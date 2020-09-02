@@ -69,11 +69,51 @@
     top45/  
       /nasa/
 
+  - NASA
+  - General Accomplishments 
+  - Wins:
+    - Individual Astronauts Recognized // Recognition
+    - Funding:
+      - Funding Secured
+      - For America's next space pioneer's!
+      - Now, and forever!
+    - R&D:
+      - Focus on human health/environmental risk assessment.
+      - To, *safely*  take our next generation to **Mars**.
+    - Satellite Independence (Transport)
+    - Geospatial Private Industry Expansion
+      - Ending:
+        - Previous monopolistic hold. 
+        - On our nation's "space" targeted utilities + technology industry.
+      - Gaining:
+        - New frontiers, for science and technology market exploration.
+    
+
 \- SpaceX 
 
     top45/
       /nasa/
         /spacex/
+
+  - NASA
+  - SpaceX
+  - Donald J. Trump saw the potential, the *necessity*, of spacefaring independence.
+    - He saw the need for a private, space agency. 
+      - To, compliment our great public *research* focused NASA.
+      - Who already has provably "launched" mankind into our current information age.
+    - Another agency: 
+      - One which can remain focused on practical launches.
+      - Unhindered by Congress's budget cuts.
+    - Allowing NASA: 
+      - To, stay an appropriate size, to **focus** on research.
+      - Now, NASA can look to the future. Measuring projects, in decades not in years. 
+      - Sans the bloated organizational scaling. Which threatened **research** in the past.
+    - This is the potential Donald J. Trump saw in SpaceX. 
+      - SpaceX's revolutionary re-entry technology,
+      - Its key to our imminent **Mars** exploration. 
+  - So, Donald J. Trump quickly moved: 
+    - To, ensure SpaceX's allegiance to the United States of America.  
+    - Its access to the American people and its share in future prosperity of our nation.
 -----
 
 ### United States Space Force
