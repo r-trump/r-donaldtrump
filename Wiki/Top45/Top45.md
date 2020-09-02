@@ -79,17 +79,26 @@
         /spacex/
 
 
-### Criminal Justice Reform
+### Prison System Reform
+
+\- Prison Reform
 
     top45/
       /prison_reform/
       
-  - Prison Reform **General**
-  - Recidivism Rates
-  - Ending Life-Sentences for Nonviolent Drug Offenders
-    - See: 
-      - [Pardoning](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-granting-full-pardon-alice-johnson/) of Nonviolent Drug Offenders
-  - 
+- Prison Reform **General**
+- Recidivism Rates
+- Ending Life-Sentences for Nonviolent Drug Offenders
+  - See: 
+    - [Pardoning](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-granting-full-pardon-alice-johnson/) of Nonviolent Drug Offenders
+- Policy Direction: Post-Sentence Justice
+  - Justice for those sentenced, convicted, and served.
+  - **IS** the **chance** of a **true** gainful life.
+    - Afforded to non-sentenced.
+  - To, be **earned** by one's time served.
+  - To, eliminate perceived "second class" citizenship. 
+    - Within those with past, and served, convictions.
+    - And, those with felony convictions.
 
 \- First Step Act
 
@@ -98,86 +107,162 @@
         /first_step_act/
 
   - [Congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/5682/text)
+    - Enacted Dec 2018 
+  - To, reduce recidivism among federal offenders.
+  - To, make our communities safer.
+  - To, create a *fairer* justice system for **all**.
+  - Statistics:
+    - Since the First Step Act was signed into law:
+      - 90% of those with sentence reductions are African American.
+
+          ###### (2019-06-13)
+  - Did, enable offenders to petition for a review of sentences.
+  - Did, reform policies that failed Americans for decades.
+  - **ALL** benefit from enabling post-sentenced living with dignity and meaning. 
+  - **Eliminating** recidivism and crime.
 
 \- Ready to Work Initiative
 
     top45/
       /prison_reform/
-        /ready_to_work_initiative/
+        /ready_to_work/
 
-  - Prison Reform
-  
+- [WhiteHouse.gov](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-helping-americans-gain-second-chance-build-brighter-future/)
+- Bureau of Prisons: [Ready to Work Initiative](https://www.justice.gov/opa/pr/bureau-prisons-ready-work-initiative-seeks-new-business-partnerships-strengthen-reentry) 
+    - Under the [First Step Act](https://www.congress.gov/bill/115th-congress/house-bill/5682/text)
+- To, connect employers to inmates, improving reentry outcomes.
+- To, utilize BOP occupational training programs. 
+- To, produce skilled workers:
+  - HVAC (heating/ventilation/air condition), 
+  - Plumbing,
+  - Masonry,
+  - Aquiculture,
+  - Computers and Technology,
+  - Carpentry,
+  - Cosmetology,
+  - Medical Billing,
+  - Food Preparation
+- To, utilize BOP self-improvement programs.
+  - Improving community reintegration.
+  - Contributing to employment success.
 
+- National Institute of Corrections: Employment Readiness/Retention
+  - [NICIC.gov](https://info.nicic.gov/cirs/node/39)
+  - To, create a culture of post-incarceration readiness.
+  - To, enter into workforce.
+  - Employment Readiness: 
+    - Soft-Skills,
+    - Cognitive Skills
+    - Industry-Recognized Training 
+    - Industry-Recognized Certifications
+  - Readiness = Ability to __Obtain__ Career
+  - Employability = Ability to __Retain__ Career
 
-
+- National Institute of Corrections: Post Release Employment Services
+  - [NICIC.gov](https://info.nicic.gov/cirs/node/40)
+  - Post-release employment.
+  - For those trained in: 
+    - Correctional Industries (CI)
+  - To, long-term gainful employment.
+  - Goals of post-release employment services:
+    - To, reduce recidivism
+    - To, increase employment opportunities available to CI-trained individuals.
+    - To, reintegrate in society.
+    - To, reduce recidivism, *gaining* and *retaining* employment
+- **ALL** benefit from enabling post-sentenced living with dignity and meaning. 
+- **Eliminating** recidivism and crime.
+-----
 
 \- Opportunity Zones (Inner City Revitalization)
 
     top45/
       /opportunity_zones/
 
+  - Inner City Revitalization
+  - General
+
+-----
+
 \- Historically Black Colleges and Universities (HBCU)
 
     top45/
       /HBCU/
 
+  - Permanent Funding
+  - Focus w/economic future security.
+-----
 
 \- USMCA
 
     top45/
       /usmca/
 
+  - United States–Mexico–Canada Agreement
+  - [USTR.gov](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement)
+  - [Agreement Full-Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between)
+  - Renegotiation of the North American Free Trade Agreement (NAFTA)
 
-\- 🙅‍♀️Yeeting the Trans-Pacific Partnership🙅‍♀️ - 
+-----
+
+\- 🙅‍♀️Yeeting the Trans-Pacific Partnership🙅‍♀️
 
     top45/
       /transpacificpartnership/
+-----
 
 \- Tax Cuts and Jobs Act
 
     top45/
       /TCJA/
+-----
 
 \- Regulation ✂️Cuts✂️
 
     top45/
       /regulation_cuts/
-
+-----
 
 \- Supreme Court Appointees & Federal Judges
 
     top45/
       /supreme_court/
+-----
 
 \- Border Security (🧱THE WALL🧱)
 
     top45/
       /build_the_wall/
+-----
 
 \- Immigration (ending sactuary city funds, MS13, criminal deportations, etc)
 
     top45/
       /immigration/
+-----
 
 \- Israel Relations
 
     top45/
       /israel/
+-----
 
 \- ☮️Peace in the Korean Peninsula☮️
 
     top45/
       /korea/
+-----
 
 \- Lobbying Reform
 
     top45/
       /lobbying/
+-----
 
 \- Ending Human Trafficking
 
     top45/
       /human_trafficking/
+-----
 
 \- ⚛️Energy Independence⚛️
 
@@ -252,8 +337,9 @@
 
   - Veterans Affairs (VA)
   - Policy Direction // Reforms
-  - [Federal Student Loan Discharge](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-discharging-federal-student-loan-debt-totally-permanently-disabled-veterans/)
-    - Discharging federal student loan debt.
+  - Veteran Reform   
+    - [Federal Student Loan Discharge](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-discharging-federal-student-loan-debt-totally-permanently-disabled-veterans/)
+    - Discharges federal student loan debt.
     - Of, "Totally and Permanently Disabled Veterans".
 -------
 
@@ -298,6 +384,7 @@
     - 1 gives compensation to the Spokane tribe for loss of their land in the 1900s
     - 1 reauthorizes funding for Native language programs
     - 1 gives federal recognition to the Little Shell Tribe of Chippewa Indians
+-------
 
 \-  CBD and Hemp
 
@@ -345,8 +432,10 @@
       
         - On, *microplastics* 
         - Including microfibers, in food supplies and sources of drinking water.
+--------
 
-\- Poverty rates at record low prior to COVID
+
+
 
 \- Syria
 
@@ -391,6 +480,11 @@
       /economy/
         /disability/
 
+  - Veteran Disability Reform   
+    - [Federal Student Loan Discharge](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-discharging-federal-student-loan-debt-totally-permanently-disabled-veterans/)
+    - Discharges federal student loan debt.
+    - Of, "Totally and Permanently Disabled Veterans".
+
   - ABLE Act Policy Reform
     - [Congress.gov](https://www.congress.gov/bill/113th-congress/house-bill/647)
       ##### Initial 2014 Act (Reference)
@@ -402,12 +496,9 @@
       - Beneficiarial Enablement
   
 
-- Veteran Reform   
-  - [Federal Student Loan Discharge](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-discharging-federal-student-loan-debt-totally-permanently-disabled-veterans/)
-  - Discharging federal student loan debt.
-  - Of, "Totally and Permanently Disabled Veterans".
 
-- Policy Direction: ENabling Financial Independence
+- Policy Direction: __En__-abling Financial Independence
+
   - Beneficiary's increased fiduciary control of their lives. 
   - __*Starting*__ to free those most vulnerable from:
     - Longstanding __dis__-abling policy. 
@@ -421,6 +512,12 @@
     - With no **support** of future **solutions** to ENable indepence from "family". By *defualt*, always.
   
   - Allowing those who are __ABLE__, to fiduciarily manage their life, to *do* so.
+
+\- Poverty rates at record low prior to COVID
+
+    top45/
+      /economy/
+        /poverty/
 
 ------
 
