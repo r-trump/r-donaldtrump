@@ -155,12 +155,10 @@
 
 ### Healthcare Reform
 
-\- Healthcare Reform (, ending mandate, lowering costs, opening cross-state markets, price transparency, EOs on pre-existing conditions, prescription prices, etc)
-
     top45/
       /healthcare/
 
-  - Ending The Mandate
+  - Ending "the" Mandate
   - Lowering Costs
   - Opening Cross-State Markets
   - Price Transparency
@@ -194,11 +192,12 @@
       /healthcare/
         /right_to_try/
 
-  - Otherwise known as: 
+  - Ie:
       - Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act
   - [FDA.gov](https://www.fda.gov/patients/learn-about-expanded-access-and-other-treatment-options/right-try)
   - ["Right to Try" - FDA Fact Sheet (PDF)](https://www.fda.gov/media/133864/download)
   - [Expanded Access Program](https://www.fda.gov/news-events/public-health-focus/expanded-access)
+    - Ie "*Compassionate Use*"
     - For those *unable* to access investigational medical products. 
       ##### - (Clinical Trials)
     - For patients with serious, life-threatening diseases, or conditions.
