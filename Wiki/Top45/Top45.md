@@ -260,16 +260,32 @@
       /israel/
 -----
 
+### PEACE 4 KOREA
+
 \- ☮️Peace in the Korean Peninsula☮️
 
     top45/
       /korea/
+
+  - End to the Korean War
+  - Opening up of North Korea (Diplomatically)
+  - Defense of South Korea + Japan + SE Asia Pacific Region
+    - Against: 
+      - *Un-Provoked* North Korean Aggression 
+      - Missile Testing
 -----
+
+### Lobbying Reform
 
 \- Lobbying Reform
 
     top45/
       /lobbying/
+
+  - Super PAC 
+  - Lobbying Reform
+  - Enforcement of our standing laws!
+    - To, fight corruption, and prevent it for future generations!
 -----
 
 ### Ending Human Trafficking
