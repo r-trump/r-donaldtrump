@@ -54,7 +54,7 @@
 
 22. **Opportunity Zones**
 
-23. **TPP & Trade**
+23. [**TPP & Trade**](https://www.reddit.com/r/donaldtrump/wiki/top45/transpacificpartnership)
 
 24. **Regulation Reduction**
 
