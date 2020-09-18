@@ -12,3 +12,21 @@
 
 -----
 
+ - NASA
+  - General Accomplishments 
+  - Wins:
+    - Individual Astronauts Recognized // Recognition
+    - Funding:
+      - Funding Secured
+      - For America's next space pioneer's!
+      - Now, and forever!
+    - R&D:
+      - Focus on human health/environmental risk assessment.
+      - To, *safely*  take our next generation to **Mars**.
+    - Satellite Independence (Transport)
+    - Geospatial Private Industry Expansion
+      - Ending:
+        - Previous monopolistic hold. 
+        - On our nation's "space" targeted utilities + technology industry.
+      - Gaining:
+        - New frontiers, for science and technology market exploration.
