@@ -43,13 +43,14 @@ U.S. Space Force (USSF)
     
   - [Wiki](https://en.wikipedia.org/wiki/Chief_of_Space_Operations)
   
-- [CHIEF MASTER SERGEANT ROGER A. TOWBERMAN](https://www.spaceforce.mil/Biographies/Article/2136021/chief-master-sergeant-roger-a-towberman)
-    
+- [CHIEF MASTER SERGEANT ROGER A. TOWBERMAN](https://www.spaceforce.mil/Biographies/Article/2136021/chief-master-sergeant-roger-a-towberman)    
   - Senior Enlisted Advisor of the United States Space Force
-
-    - [Facebook](https://www.facebook.com/SEASpaceForce/)
-    
-  - Command Senior Enlisted Leader of United States Space Command
+  
+    - Senior Enlisted Advisor Links:
+      
+        [Facebook](https://www.facebook.com/SEASpaceForce/)
+  
+    - Command Senior Enlisted Leader of United States Space Command
   
 - [LT GEN B. CHANCE SALTZMAN](https://www.spaceforce.mil/About-Us/Leadership/Lt-Gen-B-Chance-Saltzman)
     
@@ -58,25 +59,28 @@ U.S. Space Force (USSF)
   - [Careers](https://www.airforce.com/spaceforce)
 
 - USSF
-  
   - Established on,
     
-    - December 20, 2019
+      - December 20, 2019
   
   - Established within,
-    
-    - [Department of the Air Force (DOF)](https://en.wikipedia.org/wiki/United_States_Department_of_the_Air_Force)
+      
+      - [Department of the Air Force (DOF)](https://en.wikipedia.org/wiki/United_States_Department_of_the_Air_Force)
   
   - [Secretary of the Air Force](https://en.wikipedia.org/wiki/United_States_Secretary_of_the_Air_Force) maintains responsibility for USSF
     
-    - Under guidance + direction of,
-      - [Secretary of Defense (SecDef)](https://en.wikipedia.org/wiki/United_States_Secretary_of_Defense)
-    - Alongside,
-      - [Chief of Space Operations (CSO)](https://www.spaceforce.mil/Biographies/Article/2040592/general-john-w-jay-raymond)
+      - Under guidance + direction of,
+          
+          - [Secretary of Defense (SecDef)](https://en.wikipedia.org/wiki/United_States_Secretary_of_Defense)
+      
+      - Alongside,
+          
+          - [Chief of Space Operations (CSO)](https://www.spaceforce.mil/Biographies/Article/2040592/general-john-w-jay-raymond)
 
 - We Love Our Military!
 - Ensuring our American Spacial Sovereignty!
 - SPACE FORCE: The Entire Horizon is our Nation's Future!
+
 
 
 United States Space Command (USSPACECOM)
