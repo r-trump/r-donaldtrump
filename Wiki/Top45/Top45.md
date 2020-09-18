@@ -1,45 +1,55 @@
 -----
 
-## **r/DonaldTrump Wiki**
+# **r/DonaldTrump Wiki**
 
 -----
 
 ## **★ Top 45 Accomplishments**
 
-^[*<About_Donald_Trump*](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
+#### Accomplishments of Donald J. Trump's __1st__ Term
 
------
-
-1. **Beat Hillary Clinton**
+  - ^ [<-- About_Donald_Trump](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 
 -----
-
-2. **The Wall**
-
-
-
+## 👍👍Trump's Top45👍👍
 -----
 
-3. **Jobs & Employment**
+### Maximum Winning
 
-
-
+#### Accomplishments of Donald J. Trump's __1st__ Term
 -----
 
-4. **Judges**
-
+### 1. **Beat Hillary Clinton**
 
 
 -----
 
-5. **Healthcare**
+### 2. **The Wall**
 
 
 
 -----
 
-6. **Prison Reform**
+### 3. **Jobs & Employment**
+
+
+
+-----
+
+### 4. **Judges**
+
+
+
+-----
+
+### 5. **Healthcare**
+
+
+
+-----
+
+### 6. **Prison Reform**
 
 - [First Step Act](https://www.reddit.com/r/donaldtrump/wiki/top45/prison_reform/first_step_act)
 
@@ -47,268 +57,268 @@
 
 -----
 
-7. **Immigration**
+### 7. **Immigration**
 
 
 -----
 
-8. **Defeated ISIS**
-
-
-
------
-
-9. **Space Force**
+### 8. **Defeated ISIS**
 
 
 
 -----
 
-10. **Taxes**
+### 9. **Space Force**
 
 
 
 -----
 
-11. **Manufacturing & Industry**
-
+### 10. **Taxes**
 
 
 
 -----
 
-12. **Coronavirus Response**
+### 11. **Manufacturing & Industry**
 
 
 
 
 -----
 
-13. **Rebuilding Military**
+### 12. **Coronavirus Response**
 
 
 
 
 -----
 
-14. **NASA**
+### 13. **Rebuilding Military**
 
 
 
 
 -----
 
-15. **USMCA**
+### 14. **NASA**
 
 
 
 
 -----
 
-16. **Religious Freedoms**
+### 15. **USMCA**
 
 
 
 
 -----
 
-17. **Energy**
+### 16. **Religious Freedoms**
 
 
 
 
 -----
 
-18. **Afghanistan/Syria/Iraq Withdraws**
+### 17. **Energy**
 
 
 
 
 -----
 
-19. **Iran**
+### 18. **Afghanistan/Syria/Iraq Withdraws**
 
 
 
 
 -----
 
-20. **Korea**
+### 19. **Iran**
 
 
 
 
 -----
 
-21. **Poverty**
+### 20. **Korea**
 
 
 
 
 -----
 
-22. **Opportunity Zones**
+### 21. **Poverty**
 
 
 
 
 -----
 
-23. [**TPP & Trade**](https://www.reddit.com/r/donaldtrump/wiki/top45/transpacificpartnership)
+### 22. **Opportunity Zones**
 
 
 
 
 -----
 
-24. **Regulation Reduction**
+### 23. [**TPP & Trade**](https://www.reddit.com/r/donaldtrump/wiki/top45/transpacificpartnership)
 
 
 
 
 -----
 
-25. **Human Trafficking**
+### 24. **Regulation Reduction**
 
 
 
 
 -----
 
-26. **Veterans Affairs Reform**
+### 25. **Human Trafficking**
 
 
 
 
 -----
 
-27. **Stock Markets & Economy**
+### 26. **Veterans Affairs Reform**
 
 
 
 
 -----
 
-28. **Education Reform**
+### 27. **Stock Markets & Economy**
 
 
 
 
 -----
 
-29. **Child Care & Maternity Leave**
+### 28. **Education Reform**
 
 
 
 
 -----
 
-30. **Increasing NATO Funding**
+### 29. **Child Care & Maternity Leave**
 
 
 
 
 -----
 
-31. **Fighting Opioids**
+### 30. **Increasing NATO Funding**
 
 
 
 
 -----
 
-32. **CBD/Hemp**
+### 31. **Fighting Opioids**
 
 
 
 
 -----
 
-33. **Environmental Reform**
+### 32. **CBD/Hemp**
 
 
 
 
 -----
 
-34. **Native Americans**
+### 33. **Environmental Reform**
 
 
 
 
 -----
 
-35. **Historically Black Colleges & Universities**
+### 34. **Native Americans**
 
 
 
 
 -----
 
-36. **Women's Global Development and Prosperity Initiative**
+### 35. **Historically Black Colleges & Universities**
 
 
 
 
 -----
 
-37. **Lobbying Restrictions**
+### 36. **Women's Global Development and Prosperity Initiative**
 
 
 
 
 -----
 
-38. **Made Animal Cruelty a Federal Felony**
+### 37. **Lobbying Restrictions**
 
 
 
 
 -----
 
-39. **Water Infrastructure Fixing (EPA & USDA)**
+### 38. **Made Animal Cruelty a Federal Felony**
 
 
 
 
 -----
 
-40. **Save Our Seas Act**
+### 39. **Water Infrastructure Fixing (EPA & USDA)**
 
 
 
 
 -----
 
-41. **Highest Recorded Median Household Income**
+### 40. **Save Our Seas Act**
 
 
 
 
 -----
 
-42. **Won bids for Olympics and World Cup**
+### 41. **Highest Recorded Median Household Income**
 
 
 
 
 -----
 
-43. **Cybersecurity Improvements**
+### 42. **Won bids for Olympics and World Cup**
 
 
 
 
 -----
 
-44. **Organized Crime**
+### 43. **Cybersecurity Improvements**
 
 
 
 
 -----
 
-45. **Actions Against Russia**
+### 44. **Organized Crime**
+
+
+
+
+-----
+
+### 45. **Actions Against Russia**
 
 
 
