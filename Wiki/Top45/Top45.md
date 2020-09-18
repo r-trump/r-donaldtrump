@@ -49,7 +49,7 @@
 
 -----
 
-### 6. **Prison Reform**
+### 6. [**Prison Reform**](https://www.reddit.com/r/donaldtrump/wiki/top45/prison_reform)
 
 - [First Step Act](https://www.reddit.com/r/donaldtrump/wiki/top45/prison_reform/first_step_act)
 
