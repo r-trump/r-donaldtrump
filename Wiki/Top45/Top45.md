@@ -22,6 +22,10 @@
 
 6. **Prison Reform**
 
+    - [First Step Act](https://www.reddit.com/r/donaldtrump/wiki/top45/prison_reform/first_step_act)
+
+    - [Ready to Work](https://www.reddit.com/r/donaldtrump/wiki/top45/prison_reform/ready_to_work)
+
 7. **Immigration**
 
 8. **Defeated ISIS**
