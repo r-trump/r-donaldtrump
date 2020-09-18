@@ -4,7 +4,7 @@
 
 -----
 
-## **★ Top 45 Accomplishments**
+## **★ Top 45 Accomplishments ★**
 
 #### Accomplishments of Donald J. Trump's __1st__ Term
 
@@ -25,7 +25,7 @@
 
 -----
 
-### 2. **The Wall**
+### 2. [**The Wall**](https://www.reddit.com/r/donaldtrump/wiki/top45/wall)
 
 
 

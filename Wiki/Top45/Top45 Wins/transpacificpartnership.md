@@ -1,9 +1,16 @@
+-----
+
+# **r/DonaldTrump Wiki**
+
+-----
+
 ## 👍👍Trump's Top45👍👍
 -----
 
 ### Maximum Winning
 
 #### Accomplishments of Donald J. Trump's __1st__ Term
+
 -----
 
 
@@ -12,8 +19,7 @@
 
 -----
 
-\- 🙅‍♀️Yeeting the Trans-Pacific Partnership🙅‍♀️
-
+🙅‍♀️Yeeting the Trans-Pacific Partnership🙅‍♀️
 
 - America First
 - Trump stands strong against the communist's (DNC's) attempts to weaken our nation.
