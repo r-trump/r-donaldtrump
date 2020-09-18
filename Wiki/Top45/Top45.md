@@ -68,7 +68,7 @@
 
 -----
 
-### 9. **Space Force**
+### 9. [**Space Force**](https://www.reddit.com/r/donaldtrump/wiki/edit/top45/space_force)
 
 
 
