@@ -6,6 +6,8 @@
 
 ## Mod Guidelines - Wiki Guidelines
 
+^ [Wiki Guidelines](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki)
+
 -----
 
 

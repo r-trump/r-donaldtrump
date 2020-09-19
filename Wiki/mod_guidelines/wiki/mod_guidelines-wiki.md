@@ -6,6 +6,8 @@
 
 ## Mod Guidelines
 
+^ [Mod Guidelines](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines)
+
 -----
 
 
@@ -33,6 +35,6 @@ Guidelines "Use" Cases:
 
 ### Mod Guidelines - Wiki Guidelines
 
-#### Wiki Sourcing Standards
+Wiki Sourcing Standards
 
-- See (sourcing standards)[]
+  - See [sourcing standards](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki/sourcing_standards)
