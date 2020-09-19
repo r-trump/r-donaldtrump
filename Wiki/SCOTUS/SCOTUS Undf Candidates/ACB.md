@@ -68,7 +68,7 @@
 >[C-Span 2017](https://www.c-span.org/video/?433501-1/amy-coney-barrett-testifies-seventh-circuit-confirmation-hearing-2017) 
 
 [Wiki](https://archive.is/Yo8ui#selection-1203.0-1207.4)
->(Several years after her confirmation, Judge Barrett voted to clear the way for the first federal execution in 17 years.) 
+>(Several years after her confirmation, Judge Barrett voted to clear the way for the first federal execution in 17 years.)
 >
 >[Arkansas Democrat Gazette](https://archive.is/AQ76k)
 
