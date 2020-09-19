@@ -120,16 +120,20 @@
 
 ### SCOTUS
 
-[Wiki](https://archive.is/sDYgy#selection-1253.2-1265.2)
->is the [highest court](https://archive.is/NoMXP) in the [federal judiciary](https://archive.is/CiSX3) of the [United States of America](https://archive.is/h1lpN).
+  - [Wiki](https://archive.is/sDYgy#selection-1253.2-1265.2)
+    
+  >is the [highest court](https://archive.is/NoMXP) in the [federal judiciary](https://archive.is/CiSX3) of the [United States of America](https://archive.is/h1lpN).
 
-[Wiki](https://archive.is/sDYgy#selection-1265.5-1285.2)
->has ultimate (and largely [discretionary](https://archive.is/A4ddx)) [appellate jurisdiction](https://archive.is/3wNAC) over all [federal](https://archive.is/IN3an) and [state court](https://archive.is/wip/Osy5P) cases that involve a point of [federal law](https://archive.is/wip/ePPrw),
+  - [Wiki](https://archive.is/sDYgy#selection-1265.5-1285.2)
+    
+  >has ultimate (and largely [discretionary](https://archive.is/A4ddx)) [appellate jurisdiction](https://archive.is/3wNAC) over all [federal](https://archive.is/IN3an) and [state court](https://archive.is/wip/Osy5P) cases that involve a point of [federal law](https://archive.is/wip/ePPrw),
 
-[Wiki](https://archive.is/sDYgy#selection-1285.1-1289.29)
->and [original jurisdiction](https://archive.is/wip/1Irau) over a narrow range of cases
+  - [Wiki](https://archive.is/sDYgy#selection-1285.1-1289.29)
+    
+  >and [original jurisdiction](https://archive.is/wip/1Irau) over a narrow range of cases
 
-[Wiki](https://archive.is/sDYgy#selection-1289.31-1293.3)
->specifically "all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party". 
->
->[Article III, Section 2](https://archive.is/6Gx5N)
+  - [Wiki](https://archive.is/sDYgy#selection-1289.31-1293.3)
+    
+  >specifically "all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party". 
+  >
+  >[Article III, Section 2](https://archive.is/6Gx5N)
