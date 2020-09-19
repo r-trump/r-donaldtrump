@@ -210,6 +210,10 @@ Currently Stickying Content is left to a specific "Task Force" of moderators.  T
 
 - [What Mods Can't Do](https://mods.reddithelp.com/hc/en-us/articles/360002317172-What-mods-can-t-do)
 
+- [Mod Wiki Guidelines](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki)
+
+- [r/DonaldTrump's Sourcing Standards](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki/sourcing_standards)
+
 -----
 
 
@@ -220,5 +224,9 @@ Currently Stickying Content is left to a specific "Task Force" of moderators.  T
 - [Reddit Mods Help Center](https://mods.reddithelp.com/hc/en-us)
 
 - [Reddit r/ModGuie](https://www.reddit.com/r/modguide/)
+
+- [Mod Wiki r/DonaldTrump](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki)
+
+- [Sourcing Standards r/DonaldTrump](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki/sourcing_standards)
 
 -----
