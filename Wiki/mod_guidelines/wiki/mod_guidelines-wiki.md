@@ -25,7 +25,9 @@
 ### Wiki Guidelines
 
 Guidelines "Use" Cases:
+  
   - For Training
+  
   - For Information 
     - On,
       - [r/DonaldTrump](https://www.reddit.com/r/donaldtrump/wiki/subreddit)'s 
