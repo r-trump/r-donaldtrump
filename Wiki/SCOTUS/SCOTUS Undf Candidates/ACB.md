@@ -56,6 +56,7 @@
 >
 >[Yale Journal on Regulation](https://archive.is/KigAU)
 
+-----
 
 ### __ACTIONS__ 
 
@@ -71,3 +72,4 @@
 >
 >[Arkansas Democrat Gazette](https://archive.is/AQ76k)
 
+-----
