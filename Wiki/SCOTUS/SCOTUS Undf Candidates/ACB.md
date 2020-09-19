@@ -50,11 +50,12 @@
 -----
 
 ### __Personality__ + __Values__
-
-[Wiki](https://archive.is/Yo8ui#selection-403.105-411.3)
-> Described as an "originalist" and a "textualist," Barrett's judicial philosophy has been likened to that of her late-mentor and former boss, Justice Antonin Scalia. 
->
->[Yale Journal on Regulation](https://archive.is/KigAU)
+  
+  - [Wiki](https://archive.is/Yo8ui#selection-403.105-411.3)
+  
+  > Described as an "originalist" and a "textualist," Barrett's judicial philosophy has been likened to that of her late-mentor and former boss, Justice Antonin Scalia. 
+  >
+  >[Yale Journal on Regulation](https://archive.is/KigAU)
 
 -----
 
@@ -62,14 +63,16 @@
 
 #### ACB: Religious & Judicial 
 
-[Wiki](https://archive.is/Yo8ui#selection-1197.860-1203.1)
-> “My personal church affiliation or my religious belief would not bear on the discharge of my duties as a judge.” 
->
->[C-Span 2017](https://www.c-span.org/video/?433501-1/amy-coney-barrett-testifies-seventh-circuit-confirmation-hearing-2017) 
+  - [Wiki](https://archive.is/Yo8ui#selection-1197.860-1203.1)
+    
+  > “My personal church affiliation or my religious belief would not bear on the discharge of my duties as a judge.” 
+  >
+  >[C-Span 2017](https://www.c-span.org/video/?433501-1/amy-coney-barrett-testifies-seventh-circuit-confirmation-hearing-2017) 
 
-[Wiki](https://archive.is/Yo8ui#selection-1203.0-1207.4)
->(Several years after her confirmation, Judge Barrett voted to clear the way for the first federal execution in 17 years.)
->
->[Arkansas Democrat Gazette](https://archive.is/AQ76k)
+  - [Wiki](https://archive.is/Yo8ui#selection-1203.0-1207.4)
+    
+  >(Several years after her confirmation, Judge Barrett voted to clear the way for the first federal execution in 17 years.)
+  >
+  >[Arkansas Democrat Gazette](https://archive.is/AQ76k)
 
 -----
