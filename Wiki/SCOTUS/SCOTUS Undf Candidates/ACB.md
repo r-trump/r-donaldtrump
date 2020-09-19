@@ -8,6 +8,8 @@
 
 ### Candidates
 
+^ [🏛️Supreme Court🏛️](https://www.reddit.com/r/donaldtrump/wiki/scotus)
+
 -----
 
 
