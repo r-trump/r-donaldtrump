@@ -1,8 +1,10 @@
 -----
 
-# **r/DonaldTrump Wiki**
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)**
 
-  - ^ [<-- About_Donald_Trump](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
+
+^ [<-- Index](https://www.reddit.com/r/DonaldTrump/wiki/index)
 
 -----
 
