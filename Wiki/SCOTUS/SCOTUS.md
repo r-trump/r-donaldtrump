@@ -6,13 +6,15 @@
 
 -----
 
-## 🏛️[Supreme Court](https://www.supremecourt.gov/)🏛️
+## 🏛️[Supreme Court](https://www.reddit.com/r/donaldtrump/wiki/scotus)🏛️
 
 -----
 
+### Supreme Court of the United States ([SCOTUS](https://www.supremecourt.gov/))
 
-## Supreme Court of the United States (SCOTUS)
+-----
 
+[//]:# '### Candidates'
 
 -----
 
@@ -118,7 +120,6 @@
 [//]:# 'Dev'
 
 -----
-
 
 ### SCOTUS
 
