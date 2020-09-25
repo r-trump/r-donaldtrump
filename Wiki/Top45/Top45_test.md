@@ -4,9 +4,9 @@
 
 -----
 
-# **r/DonaldTrump Wiki**
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
 
-  - ^ [<-- About_Donald_Trump](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 -----
 
@@ -17,6 +17,8 @@
 ### Maximum Winning
 
 #### Accomplishments of Donald J. Trump's __1st__ Term
+
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
 
 -----
 
