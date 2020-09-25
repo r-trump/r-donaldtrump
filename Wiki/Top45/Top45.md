@@ -103,7 +103,9 @@
 
 ### 14. **NASA**
 
+- [Nasa](https://www.reddit.com/r/donaldtrump/wiki/top45/nasa)
 
+- [SpaceX](https://www.reddit.com/r/donaldtrump/wiki/top45/nasa/spacex)
 
 
 -----
