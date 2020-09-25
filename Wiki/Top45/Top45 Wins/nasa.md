@@ -1,8 +1,8 @@
 -----
 
-# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)**
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
 
-^ [<-- Index](https://www.reddit.com/r/DonaldTrump/wiki/index)
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 -----
 
@@ -14,7 +14,7 @@
 
 #### Accomplishments of Donald J. Trump's __1st__ Term
 
-^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
 
 -----
 
