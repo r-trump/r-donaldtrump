@@ -2,9 +2,12 @@
 
 # **r/DonaldTrump Wiki**
 
+  - ^ [<-- About_Donald_Trump](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
+
 -----
 
 ## 👍👍Trump's Top45👍👍
+
 -----
 
 ### Maximum Winning
