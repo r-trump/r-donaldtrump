@@ -6,7 +6,7 @@
 
 -----
 
-## 🏛️Supreme Court🏛️
+## 🏛️[Supreme Court](https://www.supremecourt.gov/)🏛️
 
 ### Candidates
 
