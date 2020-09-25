@@ -106,7 +106,7 @@
 
 -----
 
-### 15. **USMCA**
+### 15. [**USMCA**](https://www.reddit.com/r/donaldtrump/wiki/top45/usmca)
 
 
 
