@@ -6,15 +6,15 @@
 
 -----
 
-## 👍👍Trump's Top45👍👍
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
 
-^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 -----
 
-### Maximum Winning
+## 👍👍[Trump's Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)👍👍
 
-#### Accomplishments of Donald J. Trump's __1st__ Term
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
 
 -----
 

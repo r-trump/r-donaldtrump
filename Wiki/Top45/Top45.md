@@ -6,7 +6,7 @@
 
 -----
 
-## 👍👍Trump's Top45👍👍
+## 👍👍[Trump's Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)👍👍
 
 ^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
 
