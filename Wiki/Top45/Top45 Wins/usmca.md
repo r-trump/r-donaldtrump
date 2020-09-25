@@ -69,19 +69,19 @@
 
 -----
 
-### Chapters
+#### Chapters
 
 * Covering Digital Trade,
 
-    ###### (New Chapter)
+  ###### (New Chapter)
 
 * Anticorruption,
 
-    ###### (New Chapter)
+  ###### (New Chapter)
 
 * Good Regulatory Practices,  
 
-    ###### (New Chapter)
+  ###### (New Chapter)
 
 * _Plus_ an entry,  
   * Ensuring Small + Medium Sized Enterprises
