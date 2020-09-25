@@ -6,17 +6,9 @@
 
 -----
 
-# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
-
-^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
-
------
-
 ## 👍👍[Trump's Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)👍👍
 
 ^ [<-- NASA](https://www.reddit.com/r/donaldtrump/wiki/top45/nasa)
-
-
 
 -----
 
