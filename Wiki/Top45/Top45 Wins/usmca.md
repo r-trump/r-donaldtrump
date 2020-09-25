@@ -1,10 +1,14 @@
 -----
 
-# **r/DonaldTrump Wiki**
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
+
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 -----
 
-## 👍👍Trump's Top45👍👍
+## 👍👍[Trump's Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)👍👍
+
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
 
 -----
 
@@ -14,7 +18,7 @@
 
 -----
 
-## United States–Mexico–Canada Agreement
+## [United States–Mexico–Canada Agreement](https://ustr.gov/usmca)
 
 -----
 
@@ -33,9 +37,59 @@
 
 USMCA
 
-  - United States–Mexico–Canada Agreement
-  - [USTR.gov](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement)
-  - [Agreement Full-Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between)
-  - Renegotiation of the North American Free Trade Agreement (NAFTA)
+- [USTR.gov](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement)
+- [Agreement Full-Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between)
+- Renegotiation of the North American Free Trade Agreement (NAFTA)
+  
+- __Terms:__
+  - Create,
+    - A level playing field for American workers
+  - Create,
+    - Improved rules of origin for,
+      - Automobiles, 
+      - Trucks, 
+      - Other products, 
+  - Create,
+    - Disciplines on currency manipulation.
+  - Benefitting,
+    - American farmers,
+    - Ranchers,
+    - Agribusinesses,
+    - By,
+      - Modernizing + Strengthening 
+      - Our __great__ food and agriculture trade.
+  - Supporting,
+    - Our 21st Century economy.
+    - Through, 
+      - New protections for U.S. intellectual property
+      - New opportunities for trade in U.S. services
+  - Chapters:
+    - Covering Digital Trade,
+      
+      ##### (New Chapter)
+    
+    - Anticorruption,
+      
+      ##### (New Chapter)
+    
+    - Good Regulatory Practices,
+    
+      ##### (New Chapter)
+    
+    - _Plus_, an entry,
+      - Ensuring Small + Medium Sized Enterprises
+      - Benefit from the Agreement
+
+      ##### (Existing Chapter)
+
+  - USMCA Web "Hotline"
+    - [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca/hotline)
+    - The Interagency Labor Committee for Monitoring and Enforcement
+    - Established USMCA web-based “hotline”. 
+    - Allows for, 
+      - Receipt of confidential information. 
+      - From interested parties.
+      - Regarding,
+        - Labor issues among United States-Mexico-Canada Agreement (USMCA) countries.
 
 -----
