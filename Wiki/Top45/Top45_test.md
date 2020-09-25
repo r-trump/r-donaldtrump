@@ -12,13 +12,13 @@
 
 ## 👍👍Trump's Top45👍👍
 
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
+
 -----
 
 ### Maximum Winning
 
 #### Accomplishments of Donald J. Trump's __1st__ Term
-
-^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
 
 -----
 

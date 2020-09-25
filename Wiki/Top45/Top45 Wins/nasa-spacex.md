@@ -1,12 +1,14 @@
 -----
 
-# **r/DonaldTrump Wiki**
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
 
-  - ^ [<-- About_Donald_Trump](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 -----
 
 ## 👍👍Trump's Top45👍👍
+
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
 
 -----
 
