@@ -129,6 +129,8 @@
     - For,
         - Labor Obligations
 
+-----
+
 #### Labor Rights // Requirements
 
 - Note,
@@ -211,14 +213,16 @@
       - Building capacity of other countries 
       - Enforcing // improving labor protections
 
-##### Projects
+-----
+
+#### ILAB // Projects
+\- Bureau of International Affairs (ILAB)
 
 - [DoL.GOV](https://www.dol.gov/agencies/ilab/projects)
   - All Projects in overview.
 
-
-
-##### Ending Child Labor
+#### Ending Child Labor
+\- Bureau of International Affairs (ILAB)
 
 - [DoL.GOV](https://blog.dol.gov/2018/06/11/ending-child-labor)
 - _One_ important project of ILAB's:
@@ -243,6 +247,7 @@
 -----
 
 #### _Cross_ National Intelligence
+\- Bureau of International Affairs (ILAB)
 
   * DoL Web "Hotline":
     * [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca/hotline)
@@ -259,7 +264,8 @@
 ### Funding Allotments and the USMCA
 
 #### Technical Assistance Projects
-  
+\- Bureau of International Affairs (ILAB) 
+
   - [DoL.GOV](https://www.dol.gov/agencies/ilab/project/keyword/USMCA%20Technical%20Assistance)
 
 -----
