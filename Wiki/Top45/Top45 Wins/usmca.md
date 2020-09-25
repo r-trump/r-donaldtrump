@@ -172,21 +172,18 @@
         - New // Impartial Labor Courts
           - For,
             - Adjudicate disputes
-      
 
+-----
 
+### Labor Enforcement and the USMCA
 
-
-#### DoL
-##### Bureau of International Affairs (ILAB)
+#### Bureau of International Affairs (ILAB)
 
   - [DoL.GOV](https://www.dol.gov/agencies/ilab)
 
+-----
 
-#### DoL
-### Labor Rights and the USMCA // Enforcement
-
-#### _Cross_ Intelligence
+#### _Cross_ National Intelligence
 
 * DoL Web "Hotline":
   * [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca/hotline)
@@ -200,7 +197,7 @@
 
 -----
 
-### USMCA 
+### Funding Allotments and the USMCA
 
 #### Technical Assistance Projects
   
