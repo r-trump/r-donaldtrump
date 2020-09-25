@@ -38,42 +38,42 @@
 ## USMCA
 \- _Office of the United States Trade Representative_
 
-- [USTR.gov](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement)
-- [Agreement Full-Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between)
-- USMCA:
-  - Is,
-    - The _successful_ renegotiation of,
-      - Canada + Mexico trade agreements
-  - Is,
-    - The __replacement__ of NAFTA 
-      - North American Free Trade Agreement
+  - [USTR.gov](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement)
+  - [Agreement Full-Text](https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement/agreement-between)
+  - USMCA:
+    - Is,
+      - The _successful_ renegotiation of,
+        - Canada + Mexico trade agreements
+    - Is,
+      - The __replacement__ of NAFTA 
+        - North American Free Trade Agreement
 
 ------
 
 ### Terms
 \- _Office of the United States Trade Representative_
 
-* Create,
-  * A level playing field for American workers
-* Create,
-  * Improved rules of origin for,
-    * Automobiles, 
-    * Trucks, 
-    * Other products, 
-* Create,
-  * Disciplines on currency manipulation.
-* Benefitting,
-  * American farmers,
-  * Ranchers,
-  * Agribusinesses,
-  * By,
-    * Modernizing + Strengthening 
-    * Our __great__ food and agriculture trade.
-* Supporting,
-  * Our 21st Century economy.
-  * Through, 
-    * New protections for U.S. intellectual property
-    * New opportunities for trade in U.S. services
+  * Create,
+    * A level playing field for American workers
+  * Create,
+    * Improved rules of origin for,
+      * Automobiles, 
+      * Trucks, 
+      * Other products, 
+  * Create,
+    * Disciplines on currency manipulation.
+  * Benefitting,
+    * American farmers,
+    * Ranchers,
+    * Agribusinesses,
+    * By,
+      * Modernizing + Strengthening 
+      * Our __great__ food and agriculture trade.
+  * Supporting,
+    * Our 21st Century economy.
+    * Through, 
+      * New protections for U.S. intellectual property
+      * New opportunities for trade in U.S. services
 
 -----
 
@@ -103,75 +103,75 @@
 ### Labor Rights and the USMCA
 \- Bureau of International Affairs (ILAB)
 
-- [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca)
+  - [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca)
 
-#### Overview
+#### Labor Rights // Overview
 
-- USMCA has the,
-  - Strongest labor provisions of any agreement.
-- USMCA has the,
-  - Most far-reaching labor provisions of any trade agreement.
-- Labor Obligation provisions:
-  - Included in the __core__ of the agreement.
-    - Ensuring enforceability.
-- NAFTA vs USMCA (Changes)
-  - Core inclusion is,
-    - _THE_ __major__ change
-    - From,
-      - NAFTA --> USMCA
-  - NAFTA _only_,
-    - Contained a side agreement
-    - On,
-      - Labor Obligations
-  - USMCA _focuses_,
-    - On,
-      - Its __core__ agreement
-    - For,
-        - Labor Obligations
-
-#### Requirements
-
-- Note,
-  - USMCA's strict [Labor Chapter](https://ustr.gov/sites/default/files/files/agreements/FTA/USMCA/Text/23-Labor.pdf)
-- Requires Parties,
-  - To,
-    - Adopt + Maintain in law and practice,
-      - "Labor Rights".
-    - As recognized by,
-      - International Labor Organization ([ILO](https://www.ilo.org/))
-- Requires Parties, 
-  - To,
-    - Prohibit importation of goods produced by forced labor
-  - To,
-    - Address violence against workers exercising labor rights
-  - To,
-    - Address sex-based discrimination in the workplace
-  - To,
-    - Ensure that migrant workers are protected
-- Includes,
-  - _Annex on Worker Representation in Collective Bargaining in Mexico_
-    - Where Mexico commits to collective bargaining
-    - Plus,
-      - Allows for workers to engage in collective bargaining
-      - Requires Mexico to abide w/equal labor principles that the United States does.
-    - Mexico _fulfilling_ this commitment, 
-      - Enacted __historic__ labor __reforms__
+  - USMCA has the,
+    - Strongest labor provisions of any agreement.
+  - USMCA has the,
+    - Most far-reaching labor provisions of any trade agreement.
+  - Labor Obligation provisions:
+    - Included in the __core__ of the agreement.
+      - Ensuring enforceability.
+  - NAFTA vs USMCA (Changes)
+    - Core inclusion is,
+      - _THE_ __major__ change
+      - From,
+        - NAFTA --> USMCA
+    - NAFTA _only_,
+      - Contained a side agreement
       - On,
-        - May 1, 2019
-    - Includes,
-      - New independent institutions
+        - Labor Obligations
+    - USMCA _focuses_,
+      - On,
+        - Its __core__ agreement
       - For,
-        - Registering Unions 
-        
-          \+
-        
-        - Collective Bargaining Agreements
+          - Labor Obligations
 
-          \+
-        
-        - New // Impartial Labor Courts
-          - For,
-            - Adjudicate disputes
+#### Labor Rights // Requirements
+
+  - Note,
+    - USMCA's strict [Labor Chapter](https://ustr.gov/sites/default/files/files/agreements/FTA/USMCA/Text/23-Labor.pdf)
+  - Requires Parties,
+    - To,
+      - Adopt + Maintain in law and practice,
+        - "Labor Rights".
+      - As recognized by,
+        - International Labor Organization ([ILO](https://www.ilo.org/))
+  - Requires Parties, 
+    - To,
+      - Prohibit importation of goods produced by forced labor
+    - To,
+      - Address violence against workers exercising labor rights
+    - To,
+      - Address sex-based discrimination in the workplace
+    - To,
+      - Ensure that migrant workers are protected
+  - Includes,
+    - _Annex on Worker Representation in Collective Bargaining in Mexico_
+      - Where Mexico commits to collective bargaining
+      - Plus,
+        - Allows for workers to engage in collective bargaining
+        - Requires Mexico to abide w/equal labor principles that the United States does.
+      - Mexico _fulfilling_ this commitment, 
+        - Enacted __historic__ labor __reforms__
+        - On,
+          - May 1, 2019
+      - Includes,
+        - New independent institutions
+        - For,
+          - Registering Unions 
+          
+            \+
+          
+          - Collective Bargaining Agreements
+
+            \+
+          
+          - New // Impartial Labor Courts
+            - For,
+              - Adjudicate disputes
 
 -----
 
@@ -185,15 +185,15 @@
 
 #### _Cross_ National Intelligence
 
-* DoL Web "Hotline":
-  * [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca/hotline)
-  * The Interagency Labor Committee for Monitoring and Enforcement
-  * Established USMCA web-based “hotline”. 
-  * Allows for, 
-    * Receipt of confidential information. 
-    * From interested parties.
-    * Regarding,
-      * Labor issues among United States-Mexico-Canada Agreement (USMCA) countries.
+  * DoL Web "Hotline":
+    * [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca/hotline)
+    * The Interagency Labor Committee for Monitoring and Enforcement
+    * Established USMCA web-based “hotline”. 
+    * Allows for, 
+      * Receipt of confidential information. 
+      * From interested parties.
+      * Regarding,
+        * Labor issues among United States-Mexico-Canada Agreement (USMCA) countries.
 
 -----
 
