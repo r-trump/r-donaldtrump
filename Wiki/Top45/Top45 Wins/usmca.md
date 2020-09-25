@@ -14,7 +14,7 @@
 
 -----
 
-## USMCA
+## United States–Mexico–Canada Agreement
 
 -----
 
