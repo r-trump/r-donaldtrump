@@ -1,23 +1,21 @@
 -----
 
-# **r/DonaldTrump Wiki**
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
+
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 -----
 
-## **★ Top 45 Accomplishments ★**
-
-#### Accomplishments of Donald J. Trump's __1st__ Term
-
-  - ^ [<-- About_Donald_Trump](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
-
-
------
 ## 👍👍Trump's Top45👍👍
+
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
+
 -----
 
 ### Maximum Winning
 
 #### Accomplishments of Donald J. Trump's __1st__ Term
+
 -----
 
 ### 1. **Beat Hillary Clinton**
