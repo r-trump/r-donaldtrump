@@ -82,14 +82,14 @@ USMCA
 
       ##### (Existing Chapter)
 
-  - USMCA Web "Hotline"
-    - [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca/hotline)
-    - The Interagency Labor Committee for Monitoring and Enforcement
-    - Established USMCA web-based “hotline”. 
-    - Allows for, 
-      - Receipt of confidential information. 
-      - From interested parties.
-      - Regarding,
-        - Labor issues among United States-Mexico-Canada Agreement (USMCA) countries.
+- USMCA Web "Hotline"
+  - [DoL.GOV](https://www.dol.gov/agencies/ilab/our-work/trade/labor-rights-usmca/hotline)
+  - The Interagency Labor Committee for Monitoring and Enforcement
+  - Established USMCA web-based “hotline”. 
+  - Allows for, 
+    - Receipt of confidential information. 
+    - From interested parties.
+    - Regarding,
+      - Labor issues among United States-Mexico-Canada Agreement (USMCA) countries.
 
 -----
