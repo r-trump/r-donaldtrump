@@ -1,20 +1,20 @@
 | **Accomplishments** | **Volunteer** |
 | :-: | :-: |
 | 1. Beat Hillary Clinton | x |
-| 2. The Wall | x |
+| 2. The Wall | GuthixIsBalance |
 | 3. Jobs & Employment +Apprenticeship Program, +Workforce Development Advisory Council | x |
 | 4. Judges | x |
-| 5. Healthcare | x |
-| 6. Prison Reform | x |
+| 5. Healthcare | GuthixIsBalance |
+| 6. Prison Reform | GuthixIsBalance |
 | 7. Immigration | x |
 | 8. Defeated ISIS | x |
-| 9. Space Force | x |
+| 9. Space Force | GuthixIsBalance |
 | 10. World Peace | x |
 | 11. Manufacturing & Industry | x |
 | 12. Coronavirus Response | x |
 | 13. Rebuilding Military | x |
-| 14. NASA | x |
-| 15. USMCA | DCuenca111(MrThatGuy's personal Friend) |
+| 14. NASA | GuthixIsBalance |
+| 15. USMCA | DCuenca111(MrThatGuy's personal Friend), GuthixIsBalance |
 | 16. Taxes | x |
 | 17. Energy | x |
 | 18. Afghanistan/Syria/Iraq Withdraws | x |
@@ -53,7 +53,6 @@
 [//]:# 'Contributors: atomolayanatomay, GuthixIsBalance // JeffreyTBodin'
 [//]:# 'vHistory'
 [//]:# '-> "revision by atomolayanatomay — 2 hours ago"'
-
 
 [//]:# 'Dev'
 
