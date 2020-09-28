@@ -89,3 +89,7 @@ Copyright (c) 2020 Jeffrey Bodin
 ```
 
 \----lnEnd----
+
+## Integrations:
+
+[r/DonaldTrump](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki/sourcing_standards)
