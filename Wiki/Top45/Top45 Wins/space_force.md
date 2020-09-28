@@ -24,7 +24,7 @@
 
 -----
 
-U.S. Space Force (USSF)
+### U.S. Space Force (USSF)
 
 - [SpaceForce.Mil](https://www.spaceforce.mil/)
 
@@ -86,9 +86,9 @@ U.S. Space Force (USSF)
 - Ensuring our American Spacial Sovereignty!
 - SPACE FORCE: The Entire Horizon is our Nation's Future!
 
+-----
 
-
-United States Space Command (USSPACECOM)
+### United States Space Command (USSPACECOM)
 
 - [SpaceCOM.Mil](https://www.spacecom.mil/#/)
 
