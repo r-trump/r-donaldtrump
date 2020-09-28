@@ -97,15 +97,17 @@
 -----
 
 ### Sourcing Standards - Ethos
-  ```
-    Sourcing Standards - Ethos
-    2020-09-18
-    v.1.0.0
   
-    MIT License
+  [//]:#  '```'
 
-    Copyright (c) 2020 Jeffrey Bodin
-  ```
+      Sourcing Standards - Ethos
+      2020-09-18
+      v.1.0.0
+
+      MIT License
+
+      Copyright (c) 2020 Jeffrey Bodin
+  [//]:#  '```'
 
   - To, 
     - Combat the spread of misinformation.
