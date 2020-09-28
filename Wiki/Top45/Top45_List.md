@@ -45,3 +45,16 @@
 | 43. [Battling the Opioid Crisis](https://www.reddit.com/r/donaldtrump/wiki/top_45/opioids) | MrThatGuy |
 | 44. [Increased NATO spending from Ally Countries](https://www.reddit.com/r/donaldtrump/wiki/top_45/nato) | MrThatGuy |
 | 45. [Won bids for Olympics and World Cup](https://www.reddit.com/r/donaldtrump/wiki/top_45/olympics_worldcup) | MrThatGuy |
+
+-----
+
+[//]:# 'Dev'
+
+[//]:# 'Contributors: atomolayanatomay, GuthixIsBalance // JeffreyTBodin'
+[//]:# 'vHistory'
+[//]:# '-> "revision by atomolayanatomay — 2 hours ago"'
+
+
+[//]:# 'Dev'
+
+-----
