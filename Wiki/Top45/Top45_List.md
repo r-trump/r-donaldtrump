@@ -14,7 +14,7 @@
 | 12. Coronavirus Response | x |
 | 13. Rebuilding Military | x |
 | 14. NASA | GuthixIsBalance |
-| 15. USMCA | DCuenca111(MrThatGuy's personal Friend) + GuthixIsBalance |
+| 15. USMCA | DCuenca111(MrThatGuy's personal Friend), GuthixIsBalance |
 | 16. Religious Freedoms | x |
 | 17. Energy | x |
 | 18. Afghanistan/Syria/Iraq Withdraws | x |
