@@ -1,99 +1,37 @@
------
-
-# **r/DonaldTrump Wiki**
 
 -----
 
-## Mod Guidelines - Wiki Guidelines
-
-^ [Wiki Guidelines](https://www.reddit.com/r/donaldtrump/wiki/mod_guidelines/wiki)
+# Sourcing Standards - Ethos
 
 -----
 
+## v
 
-## Wiki Sourcing Standards 
+[version]: \ \ "["v.1.0.0"]"
+
+[//]:# '"[v]: http://this.com/v "v.1.0.0"'
+
+Latest: [version]
+
+### License:
+
+```
+Sourcing Standards - Ethos
+2020-09-18
+v.1.0.0
+
+MIT License
+
+Copyright (c) 2020 Jeffrey Bodin
+```
+
+### Latest:
+
+[v.1.0.0]
 
 
------
-
-[//]:# 'Dev'
-
-[//]:# 'Sourcing Standards for Wiki Page'
-[//]:# '0000-00-00_0000'
-[//]:# 'Top Lvl Domain of Site Archived'
-[//]:# 'Title of Page'
-[//]:# 'Archive Finished'
-[//]:# 'Archive In Progress (If Applicable)'
-
-[//]:# '2020-09-18_2216'
-[//]:# 'Reddit'
-[//]:# 'moderators of r/donaldtrump'
-[//]:# 'moderators archive (1)'
-[//]:# 'Archive: https://archive.is/SlTZu'
-
-[//]:# 'Dev'
-
------
-
-### Sourcing Format
-  - Copy and Paste:
-  
-    Code Block (Standard) 
-
-        -----
-
-        [//]:# 'Dev'
-
-        [//]:# 'Sourcing Standards for Wiki Page'
-        [//]:# '0000-00-00_0000'
-        [//]:# 'Top Lvl Domain of Site Archived'
-        [//]:# 'Title of Page'
-        [//]:# 'Archive Finished'
-        [//]:# 'Archive In Progress (If Applicable)'
-
-        [//]:# 'Dev'
-
-        -----
-
-  - Into created wiki pages top area. 
-  - For formatting, and sourcing review.
-  - To combat the spread of misinformation. For now and the future! 
-
------
-
-### Sourcing Format - cont
-
-  - Below:
-
-    "Quote" Block
-
-    > ' [*//]:# 'Dev'
-    >
-    > ' [*//]:# 'Sourcing Standards for Wiki Page'
-    >
-    > ' [*//]:# '0000-00-00_0000'
-    >
-    > ' [*//]:# 'Top Lvl Domain of Site Archived'
-    >
-    > ' [*//]:# 'Title of Page'
-    >
-    > ' [*//]:# 'Archive Finished'
-    >
-    > ' [*//]:# 'Archive In Progress (If Applicable)'
-    >
-    > ' [*//]:# 'Dev'
-
-  - Is a non-"code block" formatted representation. Of our sourcing standards.  
-
------
-
-### Sourcing Standards - Enforcement
-
-  - Standards will be enforced on US Gov "official" oriented pages.
-  - Ie,
-    - [SCOTUS](https://www.reddit.com/r/donaldtrump/wiki/scotus)
-    - [SCOTUS - ACB](https://www.reddit.com/r/donaldtrump/wiki/scotus/acb)
-
+\----lnStart----
+```
 -----
 
 ### Sourcing Standards - Ethos
@@ -146,4 +84,8 @@
     - For,
       - Future reach to new users. 
       - Inviting them to participate [within](https://www.reddit.com/r/donaldtrump) our community.
+
 -----
+```
+
+\----lnEnd----
