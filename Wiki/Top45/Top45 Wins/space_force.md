@@ -1,10 +1,15 @@
 -----
 
-# **r/DonaldTrump Wiki**
+# **r/DonaldTrump [Wiki](https://www.reddit.com/r/DonaldTrump/wiki/index)**
+
+^ [<-- About](https://www.reddit.com/r/DonaldTrump/wiki/donaldtrump)
 
 -----
 
-## 👍👍Trump's Top45👍👍
+## 👍👍[Trump's Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)👍👍
+
+^ [<-- Top45](https://www.reddit.com/r/donaldtrump/wiki/top45)
+
 -----
 
 ### Maximum Winning
@@ -95,7 +100,7 @@ United States Space Command (USSPACECOM)
 
 - U.S. Space Command Public Affairs
   
-  ```js
+  ```
   719-554-3478
   ```
 
