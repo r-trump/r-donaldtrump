@@ -1,7 +1,7 @@
 | **Accomplishments** | **Volunteer** | **Complete** | **Deadline** |
 | :-: | :-: | :-: | :-: |
-| 1. [Beat Hillary Clinton](https://www.reddit.com/r/donaldtrump/wiki/top_45/won) | GuthixIsBalance | x | 11/2 |
-| 2. [The Wall](https://www.reddit.com/r/donaldtrump/wiki/top_45/wall) | x | x | 11/1 |
+| 1. [Beat Hillary Clinton](https://www.reddit.com/r/donaldtrump/wiki/top_45/won) | x | x | 11/2 |
+| 2. [The Wall](https://www.reddit.com/r/donaldtrump/wiki/top_45/wall) | GuthixIsBalance | x | 11/1 |
 | 3. [Judges](https://www.reddit.com/r/donaldtrump/wiki/top_45/judges) | x | x | 10/30 |
 | 4. [Jobs & Employment](https://www.reddit.com/r/donaldtrump/wiki/top_45/jobs) | x | x | 10/31 |
 | 5. [Healthcare](https://www.reddit.com/r/donaldtrump/wiki/top_45/healthcare) | GuthixIsBalance | x | 10/29 |
