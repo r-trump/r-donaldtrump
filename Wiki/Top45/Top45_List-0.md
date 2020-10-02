@@ -1,3 +1,7 @@
+# Top45
+## List Sign-up
+-----
+
 | **Accomplishments** | **Volunteer** | **Complete** | **Deadline** |
 | :-: | :-: | :-: | :-: |
 | 1. [Beat Hillary Clinton](https://www.reddit.com/r/donaldtrump/wiki/top_45/won) | x | x | 11/2 |
@@ -45,3 +49,15 @@
 | 43. [Battling the Opioid Crisis](https://www.reddit.com/r/donaldtrump/wiki/top_45/opioids) | MrThatGuy | DONE | DONE |
 | 44. [Increased NATO spending from Ally Countries](https://www.reddit.com/r/donaldtrump/wiki/top_45/nato) | MrThatGuy | DONE | DONE |
 | 45. [Won bids for Olympics and World Cup](https://www.reddit.com/r/donaldtrump/wiki/top_45/olympics_worldcup) | MrThatGuy | DONE | DONE |
+
+-----
+
+[//]:# 'Dev'
+
+[//]:# 'Contributors: atomolayanatomay, GuthixIsBalance // JeffreyTBodin'
+[//]:# 'vHistory'
+[//]:# '-> "revision by atomolayanatomay — 2 hours ago"'
+
+[//]:# 'Dev'
+
+-----
