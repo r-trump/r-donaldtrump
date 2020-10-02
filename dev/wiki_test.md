@@ -20,6 +20,9 @@
   !["trump_wink = called][1]
 
 
+<script src="bower_components/showdown/1.0.1/showdown.min.js"></script>
+<script src="js/script.js"></script>
+
 <script src="src/showdown.js"></script>
 <script src="src/extensions/twitter.js"></script>
 <script>
