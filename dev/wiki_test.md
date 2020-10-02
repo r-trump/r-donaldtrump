@@ -19,6 +19,7 @@
 
   !["trump_wink = called][1]
 
+-----
 
 <script src="bower_components/showdown/1.0.1/showdown.min.js"></script>
 <script src="js/script.js"></script>
@@ -47,3 +48,22 @@ var converter = new showdown.Converter({ extensions: ['twitter'] });
 
 
 <src= "![trump /wink](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/trump_wink_icon.png)">
+
+<!-- my-page.html --> 
+<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
+
+# Header
+Welcome to md-page, the easiest way to make a webpage from just markdown...
+
+## header two
+  aa
+
+### header three
+  
+#### header four
+  
+##### header five
+
+*this will be italic*
+
+**this will be bold**
