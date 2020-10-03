@@ -1,0 +1,1 @@
+javascript:function bitdownloader(){if(location.host=='bitdownloader.com'){return};window.open('https://bitdownloader.com/download?video='+encodeURIComponent(document.location.href))};bitdownloader()
