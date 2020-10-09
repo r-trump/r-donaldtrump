@@ -1,3 +1,9 @@
+
+// Reference Links:
+  // @octokit/core
+    // https://github.com/octokit/core.js#readme
+    // examples 
+
 // Create a personal access token at https://github.com/settings/tokens/new?scopes=repo
 const octokit = new Octokit({ auth: `personal-access-token123` });
 
