@@ -11,6 +11,8 @@
 
 [//]:# 'Dev'
 
+[//]:# '[config/automoderator](https://www.reddit.com/r/donaldtrump/wiki/revisions/config/automoderator)'
+
 -----
 
 # Versioning
@@ -19,6 +21,10 @@
 
 - The [/r/donaldtrump](reddit.com/r/donaldtrump), automod. Has a long history of development. 
 - Across separate"DOM"-reddits, over the past 4 yrs~.
+
+Initial Commit 
+
+[2016-02-12_223837 GMT-0600](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-12%20automoderator-historic-reference.png)
 
 
 
