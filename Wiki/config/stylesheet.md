@@ -19,19 +19,18 @@
 
 ### History
 
-- The [/r/donaldtrump](reddit.com/r/donaldtrump), automod. Has a long history of development. 
-- Across separate"DOM"-reddits, over the past 4 yrs~.
+- The [/r/donaldtrump](reddit.com/r/donaldtrump), stylesheet. Has a long history of development.
 
 Initial Commit 
 
-[2016-02-12_223837 GMT-0600](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-12%20automoderator-historic-reference.png)
+[2015-06-07_155857 GMT-0500](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-12%20stylesheet-historic-reference.png)
 
-
+-----
 
 ### start
 **>>>> stylesheet Start <<<<**
 
-```
+```md
 /***********
            MISC.
               **********/
