@@ -30,7 +30,7 @@ Initial Commit
 ### start
 **>>>> stylesheet Start <<<<**
 
-```md
+```JavaScript
 /***********
            MISC.
               **********/
@@ -361,8 +361,8 @@ span.rank
 
 
 /***********
-         HEADER
-**********/
+      HEADER
+              **********/
 
 #header-bottom-left
 {
@@ -379,14 +379,14 @@ span.rank
     height: 192px;
     background-color: #2b325f;
     border-bottom: 57px solid #fff;
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 
 a[href="/r/DonaldTrump#trump-seal-banner"]
 {
     display: block;
-	content: url(%%trump-seal-banner%%);
+  content: url(%%trump-seal-banner%%);
     position: absolute;
     top: 45px;
     left: 50%;
@@ -442,8 +442,8 @@ min-width: 100%;
 }
 
 /***********
-         TABMENU
-**********/
+      TABMENU
+              **********/
 
 
 #header .tabmenu a:hover {
@@ -670,11 +670,9 @@ body.subscriber .fancy-toggle-button .active {
     display: none;
 }
 
-
-
 /***********
-        SIDEBAR
-              **********/
+      SIDEBAR
+             **********/
 
 .titlebox .redditname
 {
@@ -947,8 +945,8 @@ padding-left: 5px
 
 
 /***********
-         FLAIRS
-              **********/
+      FLAIRS
+            **********/
 
 
 /*.flair,
@@ -1010,7 +1008,7 @@ line-height: 10px;
 
 /***********
       COMMENTS PAGE
-              **********/
+                    **********/
 
 
 .comments-page .comment,
@@ -1081,8 +1079,8 @@ line-height: 10px;
 
 
 /***********
-         FOOTER
-              **********/
+      FOOTER
+            **********/
 
 
 .debuginfo {
@@ -1129,7 +1127,7 @@ line-height: 10px;
 
 /***********
       COMMENTS BOX
-              **********/
+                  **********/
 
 
 .commentarea .menuarea .toggle a {
@@ -1313,13 +1311,30 @@ ul.tabmenu.formtab,
 
 /**********
 
+  /*
+  
+  // Customization Options //
+  
+  >>>Start<<<
+            */
 
-   Customisation options start here:
+  Remove the /* symbols
+  - Before blocks of code to -> active
+    AND
+  - After blocks of code to -> active
 
-   Remove the " /* " symbols before and after the blocks of code to active them. If you don't want a header or sidebar image, keep them there.
-   Next, upload an image onto your stylesheet and name it either "header" for the header image or "sidebar" for the sidebar image.
-   Hit save and you're done!
+  If you DONT want to display:
+    Either,
+      header "image" OR sidebar "image"
+    Then,
+      Leave inplace
 
+  If you DO want to display:
+    1. Upload an image onto your stylesheet
+      For "header":
+        Name image: "header"
+      For "sidebar":
+        Name image: "sidebar image"
 
               **********/
 
@@ -1349,6 +1364,13 @@ ul.tabmenu.formtab,
     box-shadow: 0px 0px 2px rgba(0,0,0,0.1);
 }
 */
+
+  /*
+  
+  // Customization Options //
+  
+  >>>End<<<
+            */
 
 .md a
 {
@@ -1797,4 +1819,4 @@ display:none;
 }
 ```
 
-**>>>> stylesheet Start <<<<**
+**>>>> stylesheet End <<<<**
