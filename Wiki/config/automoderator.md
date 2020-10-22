@@ -107,7 +107,7 @@ action: remove
 
 type: comment
 parent_submission:
-    flair_template_id: 1c4d8a5e-8e2e-11ea-86ed-0e5dd9a3298f
+    flair_template_id: f3cf88f2-a8e5-11ea-94c5-0ebfb0f0353b
 author:
     flair_template_id: cf7a1d50-d441-11ea-9919-0ec75c1815e3
 action: remove
