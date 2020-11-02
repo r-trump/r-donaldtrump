@@ -3,6 +3,19 @@
 // Codedump of new.reddit.com's Moderation Tools Subsection
 // view-source:https://new.reddit.com/r/donaldtrump/about/userflair
 
+/*
+2020-11-02
+Note,
+  first commit:
+    dev reference files
+    - in r donaldtrump repo
+    init commit was,
+      - in: 'JeffreyBodin' gists | @JeffreyBodin
+      - Link:
+      - https://gist.github.com/JeffreyBodin/6c83fb4b54167f1f08057b6c828f207d
+        OR
+      - https://gist.github.com/JeffreyBodin/6c83fb4b54167f1f08057b6c828f207d
+*/
 
 {"subredditName":"donaldtrump","pageName":"userflair"},
 "queryParams":{}},"route":{"chunk":"ModerationPages",
