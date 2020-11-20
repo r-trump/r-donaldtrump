@@ -189,10 +189,25 @@ Are there any things we should be adding to this MAGAThread feature?
 
 [Page 4] 
 
+
+## Info
+
 ```
 // Jeffrey Bodin
 // 2020-11-19_2146
 // For archival on,
   // content moderation 
   // engineering continuous integrations
+```
+
+## License
+
+```
+Mod Meeting Log
+2020-11-19_2146
+v.1.0.0
+
+MIT License
+
+Copyright (c) 2020 Jeffrey Bodin
 ```
